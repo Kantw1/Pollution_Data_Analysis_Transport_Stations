@@ -1,242 +1,242 @@
-station1,station2,trajet_existe,temps_trajet_min,pollution_station1,pollution_station2
-Louvre - Rivoli,Pont de Neuilly,True,6.13,pollution faible,pollution moyenne
-Pont de Neuilly,Saint-Paul (Le Marais),True,7.6,pollution moyenne,pollution faible
-Concorde,Saint-Paul (Le Marais),True,2.88,pollution moyenne,pollution faible
-Concorde,Palais Royal - Musée du Louvre,True,1.09,pollution moyenne,pollution moyenne
-Gare de Lyon,Palais Royal - Musée du Louvre,True,3.0,pollution moyenne,pollution moyenne
-Argentine,Gare de Lyon,True,6.45,pollution faible,pollution moyenne
-Argentine,Charles de Gaulle - Etoile,True,0.42,pollution faible,pollution faible
-Bérault,Charles de Gaulle - Etoile,True,9.54,pollution faible,pollution faible
-Bérault,Porte de Vincennes,True,1.26,pollution faible,pollution moyenne
-George V,Porte de Vincennes,True,7.88,pollution faible,pollution moyenne
-George V,Reuilly - Diderot,True,6.39,pollution faible,pollution moyenne
-Hôtel de Ville,Reuilly - Diderot,True,2.6,pollution faible,pollution moyenne
-Franklin D. Roosevelt,Hôtel de Ville,True,3.11,pollution moyenne,pollution faible
-Cardinal Lemoine,Duroc,True,2.38,pollution moyenne,pollution moyenne
-Cardinal Lemoine,Sèvres - Babylone,True,1.76,pollution moyenne,pollution moyenne
-Porte d'Auteuil,Sèvres - Babylone,True,4.61,pollution moyenne,pollution moyenne
-Porte d'Auteuil,Ségur,True,3.31,pollution moyenne,pollution moyenne
-Maubert - Mutualité,Ségur,True,2.8,pollution moyenne,pollution moyenne
-Mabillon,Maubert - Mutualité,True,0.93,pollution faible,pollution moyenne
-Mabillon,Odéon,True,0.38,pollution faible,pollution moyenne
-Michel-Ange - Auteuil,Odéon,True,5.22,pollution élevée,pollution moyenne
-Javel - André Citroën,Michel-Ange - Auteuil,True,0.97,pollution moyenne,pollution élevée
-Javel - André Citroën,Mirabeau,True,0.35,pollution moyenne,pollution moyenne
-Charles Michels,Mirabeau,True,0.85,pollution moyenne,pollution moyenne
-Charles Michels,La Motte-Picquet - Grenelle,True,0.94,pollution moyenne,pollution faible
-Boulogne Pont de Saint-Cloud,La Motte-Picquet - Grenelle,True,4.85,pollution moyenne,pollution faible
-Boulogne Pont de Saint-Cloud,Cluny - La Sorbonne,True,7.98,pollution moyenne,pollution moyenne
-Cluny - La Sorbonne,Jussieu,True,0.82,pollution moyenne,pollution faible
-Arts et Métiers,Place des Fêtes,True,2.74,pollution moyenne,pollution moyenne
-Place des Fêtes,Pyrénées,True,0.63,pollution moyenne,pollution moyenne
-Goncourt,Pyrénées,True,1.03,pollution moyenne,pollution moyenne
-Belleville,Goncourt,True,0.47,pollution élevée,pollution moyenne
-Belleville,Mairie des Lilas,True,2.78,pollution élevée,pollution moyenne
-Mairie des Lilas,Télégraphe,True,1.27,pollution moyenne,pollution moyenne
-Châtelet,Télégraphe,True,3.89,pollution moyenne,pollution moyenne
-Châtelet,Rambuteau,True,0.51,pollution moyenne,pollution moyenne
-Convention,Front Populaire,True,8.55,pollution moyenne,pollution moyenne
-Convention,Mairie d'Issy,True,2.03,pollution moyenne,pollution moyenne
-Mairie d'Issy,Rennes,True,4.43,pollution moyenne,pollution moyenne
-Concorde,Rennes,True,1.92,pollution moyenne,pollution moyenne
-Concorde,Volontaires,True,2.75,pollution moyenne,pollution moyenne
-Pigalle,Volontaires,True,4.61,pollution moyenne,pollution moyenne
-Notre-Dame-de-Lorette,Pigalle,True,0.61,pollution moyenne,pollution moyenne
-Montparnasse Bienvenue,Notre-Dame-de-Lorette,True,3.43,pollution faible,pollution moyenne
-Falguière,Montparnasse Bienvenue,True,0.46,pollution moyenne,pollution faible
-Falguière,Porte de la Chapelle,True,6.14,pollution moyenne,pollution faible
-Marcadet - Poissonniers,Porte de la Chapelle,True,0.87,pollution moyenne,pollution faible
-Marcadet - Poissonniers,Saint-Lazare,True,2.43,pollution moyenne,pollution moyenne
-Corentin Celton,Saint-Lazare,True,5.83,pollution moyenne,pollution moyenne
-Aimé Césaire,Corentin Celton,True,10.74,pollution faible,pollution moyenne
-Aimé Césaire,Saint-Georges,True,4.13,pollution faible,pollution faible
-Lamarck - Caulaincourt,Saint-Georges,True,1.16,pollution faible,pollution faible
-Lamarck - Caulaincourt,Marx Dormoy,True,1.44,pollution faible,pollution moyenne
-Jules Joffrin,Marx Dormoy,True,1.07,pollution faible,pollution moyenne
-Jules Joffrin,Notre-Dame des Champs,True,4.98,pollution faible,pollution faible
-Notre-Dame des Champs,Vaugirard,True,1.95,pollution faible,pollution faible
-Porte de Versailles,Vaugirard,True,1.14,pollution faible,pollution faible
-Abbesses,Porte de Versailles,True,6.34,pollution faible,pollution faible
-Gaîté,Saint-François-Xavier,True,1.42,pollution faible,pollution moyenne
-Asnières - Gennevilliers Les Courtilles,Gaîté,True,9.8,pollution faible,pollution faible
-Asnières - Gennevilliers Les Courtilles,Porte de Saint-Ouen,True,4.55,pollution faible,pollution faible
-Carrefour Pleyel,Porte de Saint-Ouen,True,2.48,pollution faible,pollution faible
-Carrefour Pleyel,Garibaldi,True,1.58,pollution faible,pollution faible
-Garibaldi,Place de Clichy,True,2.34,pollution faible,pollution faible
-Miromesnil,Place de Clichy,True,1.34,pollution moyenne,pollution faible
-Invalides,Miromesnil,True,1.29,pollution faible,pollution moyenne
-Invalides,Plaisance,True,3.01,pollution faible,pollution moyenne
-Les Agnettes,Plaisance,True,9.56,pollution faible,pollution moyenne
-Les Agnettes,Porte de Clichy,True,3.48,pollution faible,pollution moyenne
-Porte de Clichy,Saint-Denis - Université,True,6.33,pollution moyenne,pollution moyenne
-Malakoff - Plateau de Vanves,Saint-Denis - Université,True,13.47,pollution faible,pollution moyenne
-Duroc,Malakoff - Plateau de Vanves,True,2.8,pollution moyenne,pollution faible
-Duroc,Liège,True,3.44,pollution moyenne,pollution faible
-Liège,Saint-Lazare,True,0.5,pollution faible,pollution moyenne
-Porte de Vanves,Saint-Lazare,True,5.03,pollution faible,pollution moyenne
-Mairie de Clichy,Porte de Vanves,True,7.79,pollution moyenne,pollution faible
-Guy Môquet,Mairie de Clichy,True,1.82,pollution faible,pollution moyenne
-Basilique de Saint-Denis,Guy Môquet,True,4.98,pollution moyenne,pollution faible
-Basilique de Saint-Denis,Pernety,True,10.89,pollution moyenne,pollution faible
-Gabriel Péri,Pernety,True,8.59,pollution moyenne,pollution faible
-Gabriel Péri,La Fourche,True,3.64,pollution moyenne,pollution faible
-La Fourche,Varenne,True,3.24,pollution faible,pollution moyenne
-Bibliothèque François Mitterrand,Porte de Clichy,True,7.87,pollution faible,pollution moyenne
-Pont Cardinet,Porte de Clichy,True,0.65,pollution moyenne,pollution moyenne
-Pont Cardinet,Saint-Lazare,True,1.49,pollution moyenne,pollution moyenne
-Madeleine,Saint-Lazare,True,0.56,pollution moyenne,pollution moyenne
-Madeleine,Mairie de Saint-Ouen,True,4.35,pollution moyenne,pollution moyenne
-Cour Saint-Emilion,Mairie de Saint-Ouen,True,8.81,pollution faible,pollution moyenne
-Couronnes,Ménilmontant,True,0.36,pollution moyenne,pollution moyenne
-Belleville,Couronnes,True,0.4,pollution élevée,pollution moyenne
-Avron,Belleville,True,2.57,pollution moyenne,pollution élevée
-Avron,Victor Hugo,True,7.83,pollution moyenne,pollution moyenne
-Alexandre Dumas,Victor Hugo,True,7.49,pollution moyenne,pollution moyenne
-Alexandre Dumas,Philippe Auguste,True,0.34,pollution moyenne,pollution moyenne
-Colonel Fabien,Philippe Auguste,True,2.42,pollution moyenne,pollution moyenne
-Colonel Fabien,Place de Clichy,True,2.99,pollution moyenne,pollution faible
-Pigalle,Place de Clichy,True,0.69,pollution moyenne,pollution faible
-Nation,Pigalle,True,5.23,pollution moyenne,pollution moyenne
-Nation,Père Lachaise,True,1.59,pollution moyenne,pollution moyenne
-Anvers,Père Lachaise,True,3.5,pollution moyenne,pollution moyenne
-Anvers,Charles de Gaulle - Etoile,True,3.44,pollution moyenne,pollution faible
-Charles de Gaulle - Etoile,Rome,True,1.98,pollution faible,pollution moyenne
-Courcelles,Rome,True,1.26,pollution moyenne,pollution moyenne
-Saint-Lazare,Temple,True,2.65,pollution moyenne,pollution moyenne
-Rue Saint-Maur,Saint-Lazare,True,3.95,pollution moyenne,pollution moyenne
-Quatre Septembre,Rue Saint-Maur,True,3.05,pollution moyenne,pollution moyenne
-Pont de Levallois - Bécon,Quatre Septembre,True,4.73,pollution faible,pollution moyenne
-Parmentier,Pont de Levallois - Bécon,True,7.19,pollution moyenne,pollution faible
-Europe,Parmentier,True,3.82,pollution faible,pollution moyenne
-Europe,République,True,3.01,pollution faible,pollution moyenne
-Louise Michel,République,True,5.51,pollution moyenne,pollution moyenne
-Gallieni,Louise Michel,True,8.96,pollution faible,pollution moyenne
-Gallieni,Pereire,True,8.25,pollution faible,pollution moyenne
-Pereire,Wagram,True,0.48,pollution moyenne,pollution moyenne
-Anatole France,Wagram,True,1.59,pollution faible,pollution moyenne
-Anatole France,Père Lachaise,True,7.48,pollution faible,pollution moyenne
-Bourse,Père Lachaise,True,3.14,pollution moyenne,pollution moyenne
-Arts et Métiers,Bourse,True,1.13,pollution moyenne,pollution moyenne
-Arts et Métiers,Havre-Caumartin,True,2.14,pollution moyenne,pollution faible
-Havre-Caumartin,Opéra,True,0.47,pollution faible,pollution faible
-Opéra,Réaumur - Sébastopol,True,1.42,pollution faible,pollution faible
-Montparnasse Bienvenue,Simplon,True,5.37,pollution faible,pollution faible
-Cité,Simplon,True,3.99,pollution moyenne,pollution faible
-Cité,Porte d'Orléans,True,3.55,pollution moyenne,pollution moyenne
-Porte d'Orléans,Raspail,True,1.65,pollution moyenne,pollution faible
-Raspail,Réaumur - Sébastopol,True,3.14,pollution faible,pollution faible
-Réaumur - Sébastopol,Saint-Placide,True,2.6,pollution faible,pollution faible
-Les Halles,Saint-Placide,True,2.05,pollution faible,pollution faible
-Les Halles,Saint-Michel,True,0.93,pollution faible,pollution faible
-Etienne Marcel,Saint-Michel,True,1.09,pollution faible,pollution faible
-Etienne Marcel,Mouton-Duvernet,True,3.56,pollution faible,pollution faible
-Mouton-Duvernet,Vavin,True,1.1,pollution faible,pollution faible
-Château d'Eau,Vavin,True,3.62,pollution faible,pollution faible
-Château d'Eau,Gare de l'Est,True,0.41,pollution faible,pollution moyenne
-Gare de l'Est,Mairie de Montrouge,True,6.47,pollution moyenne,pollution moyenne
-Denfert-Rochereau,Mairie de Montrouge,True,1.8,pollution faible,pollution moyenne
-Bagneux - Lucie Aubrac,Denfert-Rochereau,True,3.27,pollution faible,pollution faible
-Bagneux - Lucie Aubrac,Marcadet - Poissonniers,True,9.3,pollution faible,pollution moyenne
-Marcadet - Poissonniers,Saint-Sulpice,True,4.34,pollution moyenne,pollution faible
-Alésia,Saint-Sulpice,True,2.37,pollution faible,pollution faible
-Alésia,Porte de Clignancourt,True,7.22,pollution faible,pollution moyenne
-Hoche,Stalingrad,True,2.54,pollution moyenne,pollution moyenne
-Hoche,Porte de Pantin,True,0.81,pollution moyenne,pollution moyenne
-Gare de l'Est,Porte de Pantin,True,2.63,pollution moyenne,pollution moyenne
-Bastille,Gare de l'Est,True,2.46,pollution moyenne,pollution moyenne
-Bastille,Saint-Marcel,True,1.62,pollution moyenne,pollution moyenne
-Ourcq,Saint-Marcel,True,5.29,pollution élevée,pollution moyenne
-Ourcq,Richard-Lenoir,True,2.98,pollution élevée,pollution moyenne
-Bréguet-Sabin,Richard-Lenoir,True,0.39,pollution moyenne,pollution moyenne
-Bréguet-Sabin,Gare du Nord,True,2.56,pollution moyenne,pollution moyenne
-Bobigny-Pantin - Raymond Queneau,Gare du Nord,True,4.95,pollution moyenne,pollution moyenne
-Bobigny-Pantin - Raymond Queneau,Campo-Formio,True,7.68,pollution moyenne,pollution moyenne
-Campo-Formio,Oberkampf,True,3.07,pollution moyenne,pollution élevée
-Dugommier,Kléber,True,7.33,pollution moyenne,pollution moyenne
-Daumesnil,Kléber,True,7.71,pollution moyenne,pollution moyenne
-Boissière,Daumesnil,True,7.72,pollution moyenne,pollution moyenne
-Boissière,Nation,True,7.41,pollution moyenne,pollution moyenne
-Nation,Trocadéro,True,7.49,pollution moyenne,pollution moyenne
-Charles de Gaulle - Etoile,Trocadéro,True,1.19,pollution faible,pollution moyenne
-Charles de Gaulle - Etoile,Picpus,True,7.78,pollution faible,pollution moyenne
-Pasteur,Picpus,True,6.0,pollution moyenne,pollution moyenne
-Chaussée d'Antin - La Fayette,Palais Royal - Musée du Louvre,True,1.1,pollution moyenne,pollution moyenne
-Palais Royal - Musée du Louvre,Porte d'Italie,True,4.73,pollution moyenne,pollution faible
-Poissonnière,Porte d'Italie,True,6.0,pollution faible,pollution faible
-Cadet,Poissonnière,True,0.32,pollution faible,pollution faible
-Cadet,Pierre et Marie Curie,True,6.57,pollution faible,pollution moyenne
-Maison Blanche,Pierre et Marie Curie,True,1.43,pollution moyenne,pollution moyenne
-Maison Blanche,Stalingrad,True,6.39,pollution moyenne,pollution moyenne
-Le Peletier,Stalingrad,True,2.07,pollution faible,pollution moyenne
-Le Peletier,Villejuif Paul Vaillant-Couturier,True,8.28,pollution faible,pollution moyenne
-Censier - Daubenton,Villejuif Paul Vaillant-Couturier,True,4.65,pollution moyenne,pollution moyenne
-Censier - Daubenton,Pyramides,True,2.88,pollution moyenne,pollution faible
-Aubervilliers-Pantin Quatre Chemins,Pyramides,True,5.52,pollution moyenne,pollution faible
-Aubervilliers-Pantin Quatre Chemins,Tolbiac,True,8.32,pollution moyenne,pollution moyenne
-Fort d'Aubervilliers,Tolbiac,True,9.64,pollution moyenne,pollution moyenne
-Corentin Cariou,Fort d'Aubervilliers,True,2.53,pollution faible,pollution moyenne
-Corentin Cariou,Opéra,True,4.2,pollution faible,pollution faible
-Opéra,Place d'Italie,True,4.27,pollution faible,pollution moyenne
-Place d'Italie,Pont Neuf,True,2.92,pollution moyenne,pollution faible
-Place Monge,Pont Neuf,True,1.78,pollution moyenne,pollution faible
-Place Monge,Porte de Choisy,True,2.47,pollution moyenne,pollution faible
-Porte d'Ivry,Porte de Choisy,True,0.34,pollution faible,pollution faible
-Mairie d'Ivry,Porte d'Ivry,True,1.42,pollution moyenne,pollution faible
-Le Kremlin-Bicêtre,Mairie d'Ivry,True,1.45,pollution moyenne,pollution moyenne
-Le Kremlin-Bicêtre,Riquet,True,8.03,pollution moyenne,pollution faible
-Jussieu,Riquet,True,4.48,pollution faible,pollution faible
-Buttes Chaumont,Louis Blanc,True,1.2,pollution moyenne,pollution moyenne
-Bolivar,Louis Blanc,True,0.66,pollution moyenne,pollution moyenne
-Bolivar,Jaurès,True,0.3,pollution moyenne,pollution moyenne
-Danube,Jaurès,True,1.54,pollution moyenne,pollution moyenne
-Danube,Place des Fêtes,True,0.54,pollution moyenne,pollution moyenne
-Concorde,Ledru-Rollin,True,3.98,pollution moyenne,pollution moyenne
-Concorde,Strasbourg - Saint-Denis,True,2.17,pollution moyenne,pollution moyenne
-Boucicaut,Strasbourg - Saint-Denis,True,5.33,pollution faible,pollution moyenne
-Boucicaut,Commerce,True,0.54,pollution faible,pollution faible
-Commerce,République,True,5.25,pollution faible,pollution moyenne
-Porte Dorée,République,True,4.4,pollution moyenne,pollution moyenne
-Ecole Vétérinaire de Maisons-Alfort,Porte Dorée,True,2.37,pollution faible,pollution moyenne
-Ecole Vétérinaire de Maisons-Alfort,Invalides,True,8.71,pollution faible,pollution faible
-Invalides,Madeleine,True,1.16,pollution faible,pollution moyenne
-Charenton - Ecoles,Madeleine,True,7.75,pollution moyenne,pollution moyenne
-Charenton - Ecoles,Reuilly - Diderot,True,3.22,pollution moyenne,pollution moyenne
-Maisons-Alfort - Les Juilliottes,Reuilly - Diderot,True,6.02,pollution moyenne,pollution moyenne
-Daumesnil,Maisons-Alfort - Les Juilliottes,True,5.03,pollution moyenne,pollution moyenne
-Daumesnil,Richelieu - Drouot,True,5.14,pollution moyenne,pollution moyenne
-Faidherbe - Chaligny,Richelieu - Drouot,True,3.82,pollution faible,pollution moyenne
-Bonne Nouvelle,Faidherbe - Chaligny,True,3.18,pollution moyenne,pollution faible
-Balard,Bonne Nouvelle,True,5.88,pollution moyenne,pollution moyenne
-Balard,Félix Faure,True,1.1,pollution moyenne,pollution faible
-Félix Faure,Porte de Charenton,True,7.56,pollution faible,pollution faible
-Opéra,Porte de Charenton,True,6.07,pollution faible,pollution faible
-Maisons-Alfort - Stade,Opéra,True,9.37,pollution moyenne,pollution faible
-Maisons-Alfort - Stade,Montgallet,True,4.69,pollution moyenne,pollution faible
-Saint-Ambroise,Saint-Philippe-du-Roule,True,4.46,pollution moyenne,pollution élevée
-Richelieu - Drouot,Saint-Philippe-du-Roule,True,1.93,pollution moyenne,pollution élevée
-Mairie de Montreuil,Richelieu - Drouot,True,7.06,pollution moyenne,pollution moyenne
-Mairie de Montreuil,Robespierre,True,1.45,pollution moyenne,pollution moyenne
-Oberkampf,Robespierre,True,3.83,pollution élevée,pollution moyenne
-Oberkampf,Strasbourg - Saint-Denis,True,1.08,pollution élevée,pollution moyenne
-Grands Boulevards,Strasbourg - Saint-Denis,True,0.75,pollution moyenne,pollution moyenne
-Grands Boulevards,Ranelagh,True,5.23,pollution moyenne,pollution moyenne
-Franklin D. Roosevelt,Ranelagh,True,3.0,pollution moyenne,pollution moyenne
-Franklin D. Roosevelt,Marcel Sembat,True,5.74,pollution moyenne,pollution moyenne
-Marcel Sembat,Michel-Ange - Auteuil,True,1.99,pollution moyenne,pollution élevée
-Michel-Ange - Auteuil,Rue des Boulets,True,8.5,pollution élevée,pollution moyenne
-Miromesnil,Rue des Boulets,True,5.5,pollution moyenne,pollution moyenne
-Miromesnil,Voltaire,True,4.72,pollution moyenne,pollution moyenne
-Jasmin,Voltaire,True,7.59,pollution moyenne,pollution moyenne
-Jasmin,Nation,True,8.66,pollution moyenne,pollution moyenne
-Nation,Porte de Saint-Cloud,True,9.49,pollution moyenne,pollution moyenne
-Exelmans,Porte de Saint-Cloud,True,0.51,pollution moyenne,pollution moyenne
-Exelmans,Iéna,True,3.24,pollution moyenne,pollution élevée
-Charonne,Iéna,True,6.24,pollution moyenne,pollution élevée
-Billancourt,Charonne,True,10.24,pollution moyenne,pollution moyenne
-Billancourt,Porte de Montreuil,True,11.92,pollution moyenne,pollution moyenne
-Porte de Montreuil,Saint-Augustin,True,6.45,pollution moyenne,pollution moyenne
-Croix de Chavaux,Saint-Augustin,True,7.96,pollution moyenne,pollution moyenne
-Chaussée d'Antin - La Fayette,Croix de Chavaux,True,7.09,pollution moyenne,pollution moyenne
-Chaussée d'Antin - La Fayette,Trocadéro,True,3.28,pollution moyenne,pollution moyenne
-Bonne Nouvelle,Trocadéro,True,4.18,pollution moyenne,pollution moyenne
-Bonne Nouvelle,Maraîchers,True,4.31,pollution moyenne,pollution moyenne
+station1,station2,trajet_existe,temps_trajet_min,pollution_station1,pollution_station2,lat_station1,lon_station1,lat_station2,lon_station2,ligne_metro
+Louvre - Rivoli,Pont de Neuilly,True,6.13,pollution faible,pollution moyenne,48.86090733426327,2.3409964272720227,48.88548938897471,2.258495429369125,Métro 1
+Pont de Neuilly,Saint-Paul (Le Marais),True,7.6,pollution moyenne,pollution faible,48.88548938897471,2.258495429369125,48.85518742160445,2.3608852562751967,Métro 1
+Concorde,Saint-Paul (Le Marais),True,2.88,pollution moyenne,pollution faible,48.86652125193945,2.3220315426557194,48.85518742160445,2.3608852562751967,Métro 1
+Concorde,Palais Royal - Musée du Louvre,True,1.09,pollution moyenne,pollution moyenne,48.86652125193945,2.3220315426557194,48.86268399776967,2.337007354765684,Métro 1
+Gare de Lyon,Palais Royal - Musée du Louvre,True,3.0,pollution moyenne,pollution moyenne,48.84575948671397,2.373125016776689,48.86268399776967,2.337007354765684,Métro 1
+Argentine,Gare de Lyon,True,6.45,pollution faible,pollution moyenne,48.87566737659971,2.289435418542214,48.84575948671397,2.373125016776689,Métro 1
+Argentine,Charles de Gaulle - Etoile,True,0.42,pollution faible,pollution faible,48.87566737659971,2.289435418542214,48.87392926445533,2.2951172138230334,Métro 1
+Bérault,Charles de Gaulle - Etoile,True,9.54,pollution faible,pollution faible,48.84549169626708,2.4292278831660283,48.87392926445533,2.2951172138230334,Métro 1
+Bérault,Porte de Vincennes,True,1.26,pollution faible,pollution moyenne,48.84549169626708,2.4292278831660283,48.84700773108863,2.4108049967015006,Métro 1
+George V,Porte de Vincennes,True,7.88,pollution faible,pollution moyenne,48.87203776458909,2.300759784978918,48.84700773108863,2.4108049967015006,Métro 1
+George V,Reuilly - Diderot,True,6.39,pollution faible,pollution moyenne,48.87203776458909,2.300759784978918,48.84721292669797,2.387201070409392,Métro 1
+Hôtel de Ville,Reuilly - Diderot,True,2.6,pollution faible,pollution moyenne,48.85735240518587,2.3520676701391,48.84721292669797,2.387201070409392,Métro 1
+Franklin D. Roosevelt,Hôtel de Ville,True,3.11,pollution moyenne,pollution faible,48.86872488799857,2.309488192337113,48.85735240518587,2.3520676701391,Métro 1
+Cardinal Lemoine,Duroc,True,2.38,pollution moyenne,pollution moyenne,48.84670003526311,2.3513280016731763,48.84675637808778,2.3162247549746047,Métro 10
+Cardinal Lemoine,Sèvres - Babylone,True,1.76,pollution moyenne,pollution moyenne,48.84670003526311,2.3513280016731763,48.85093150598804,2.326104689925573,Métro 10
+Porte d'Auteuil,Sèvres - Babylone,True,4.61,pollution moyenne,pollution moyenne,48.84790412362924,2.258280744595537,48.85093150598804,2.326104689925573,Métro 10
+Porte d'Auteuil,Ségur,True,3.31,pollution moyenne,pollution moyenne,48.84790412362924,2.258280744595537,48.84716726999503,2.307137849403385,Métro 10
+Maubert - Mutualité,Ségur,True,2.8,pollution moyenne,pollution moyenne,48.85010969451494,2.348219343927666,48.84716726999503,2.307137849403385,Métro 10
+Mabillon,Maubert - Mutualité,True,0.93,pollution faible,pollution moyenne,48.85284373829949,2.335142819346476,48.85010969451494,2.348219343927666,Métro 10
+Mabillon,Odéon,True,0.38,pollution faible,pollution moyenne,48.85284373829949,2.335142819346476,48.8519477060765,2.340619126473996,Métro 10
+Michel-Ange - Auteuil,Odéon,True,5.22,pollution élevée,pollution moyenne,48.84770893216831,2.2638093220226634,48.8519477060765,2.340619126473996,Métro 10
+Javel - André Citroën,Michel-Ange - Auteuil,True,0.97,pollution moyenne,pollution élevée,48.84618110622323,2.278009496527359,48.84770893216831,2.2638093220226634,Métro 10
+Javel - André Citroën,Mirabeau,True,0.35,pollution moyenne,pollution moyenne,48.84618110622323,2.278009496527359,48.84707750734599,2.2730641263728333,Métro 10
+Charles Michels,Mirabeau,True,0.85,pollution moyenne,pollution moyenne,48.84636172348247,2.2856243417995747,48.84707750734599,2.2730641263728333,Métro 10
+Charles Michels,La Motte-Picquet - Grenelle,True,0.94,pollution moyenne,pollution faible,48.84636172348247,2.2856243417995747,48.849532805857095,2.298684579816939,Métro 10
+Boulogne Pont de Saint-Cloud,La Motte-Picquet - Grenelle,True,4.85,pollution moyenne,pollution faible,48.84067248206251,2.2283125898228056,48.849532805857095,2.298684579816939,Métro 10
+Boulogne Pont de Saint-Cloud,Cluny - La Sorbonne,True,7.98,pollution moyenne,pollution moyenne,48.84067248206251,2.2283125898228056,48.850793731720536,2.3450218824744566,Métro 10
+Cluny - La Sorbonne,Jussieu,True,0.82,pollution moyenne,pollution faible,48.850793731720536,2.3450218824744566,48.8462878950311,2.354944184375758,Métro 10
+Arts et Métiers,Place des Fêtes,True,2.74,pollution moyenne,pollution moyenne,48.86529961264491,2.3565081436435467,48.87672366197325,2.393139370360497,Métro 11
+Place des Fêtes,Pyrénées,True,0.63,pollution moyenne,pollution moyenne,48.87672366197325,2.393139370360497,48.87381265491752,2.384883957748741,Métro 11
+Goncourt,Pyrénées,True,1.03,pollution moyenne,pollution moyenne,48.8700070178386,2.3707644347484003,48.87381265491752,2.384883957748741,Métro 11
+Belleville,Goncourt,True,0.47,pollution élevée,pollution moyenne,48.87231407736167,2.3768306915222848,48.8700070178386,2.3707644347484003,Métro 11
+Belleville,Mairie des Lilas,True,2.78,pollution élevée,pollution moyenne,48.87231407736167,2.3768306915222848,48.87974365006289,2.4162978208011863,Métro 11
+Mairie des Lilas,Télégraphe,True,1.27,pollution moyenne,pollution moyenne,48.87974365006289,2.4162978208011863,48.87551038418075,2.3986480899605933,Métro 11
+Châtelet,Télégraphe,True,3.89,pollution moyenne,pollution moyenne,48.85776111354502,2.3478374055687867,48.87551038418075,2.3986480899605933,Métro 11
+Châtelet,Rambuteau,True,0.51,pollution moyenne,pollution moyenne,48.85776111354502,2.3478374055687867,48.86119015695036,2.353273948594772,Métro 11
+Convention,Front Populaire,True,8.55,pollution moyenne,pollution moyenne,48.83713505380496,2.2963913864809173,48.90666420278779,2.365792023989413,Métro 12
+Convention,Mairie d'Issy,True,2.03,pollution moyenne,pollution moyenne,48.83713505380496,2.2963913864809173,48.82434428766646,2.273558168023932,Métro 12
+Mairie d'Issy,Rennes,True,4.43,pollution moyenne,pollution moyenne,48.82434428766646,2.273558168023932,48.84819024311401,2.32802068556793,Métro 12
+Concorde,Rennes,True,1.92,pollution moyenne,pollution moyenne,48.86652125193945,2.3220315426557194,48.84819024311401,2.32802068556793,Métro 12
+Concorde,Volontaires,True,2.75,pollution moyenne,pollution moyenne,48.86652125193945,2.3220315426557194,48.84141172841498,2.3079833805768515,Métro 12
+Pigalle,Volontaires,True,4.61,pollution moyenne,pollution moyenne,48.88201178841109,2.3371840091053384,48.84141172841498,2.3079833805768515,Métro 12
+Notre-Dame-de-Lorette,Pigalle,True,0.61,pollution moyenne,pollution moyenne,48.87604417483004,2.337900771823332,48.88201178841109,2.3371840091053384,Métro 12
+Montparnasse Bienvenue,Notre-Dame-de-Lorette,True,3.43,pollution faible,pollution moyenne,48.84385251452581,2.3243294607791096,48.87604417483004,2.337900771823332,Métro 12
+Falguière,Montparnasse Bienvenue,True,0.46,pollution moyenne,pollution faible,48.844317683534335,2.317551235617027,48.84385251452581,2.3243294607791096,Métro 12
+Falguière,Porte de la Chapelle,True,6.14,pollution moyenne,pollution faible,48.844317683534335,2.317551235617027,48.89740242267042,2.359248542310361,Métro 12
+Marcadet - Poissonniers,Porte de la Chapelle,True,0.87,pollution moyenne,pollution faible,48.89154760285429,2.3500246218070155,48.89740242267042,2.359248542310361,Métro 12
+Marcadet - Poissonniers,Saint-Lazare,True,2.43,pollution moyenne,pollution moyenne,48.89154760285429,2.3500246218070155,48.87496650103443,2.3244924701707954,Métro 12
+Corentin Celton,Saint-Lazare,True,5.83,pollution moyenne,pollution moyenne,48.82682329515912,2.2789586605256367,48.87496650103443,2.3244924701707954,Métro 12
+Aimé Césaire,Corentin Celton,True,10.74,pollution faible,pollution moyenne,48.90843758066954,2.37813084516706,48.82682329515912,2.2789586605256367,Métro 12
+Aimé Césaire,Saint-Georges,True,4.13,pollution faible,pollution faible,48.90843758066954,2.37813084516706,48.87841659490173,2.3375706403796697,Métro 12
+Lamarck - Caulaincourt,Saint-Georges,True,1.16,pollution faible,pollution faible,48.88968180996681,2.3385838243831936,48.87841659490173,2.3375706403796697,Métro 12
+Lamarck - Caulaincourt,Marx Dormoy,True,1.44,pollution faible,pollution moyenne,48.88968180996681,2.3385838243831936,48.89057957856722,2.359808478084024,Métro 12
+Jules Joffrin,Marx Dormoy,True,1.07,pollution faible,pollution moyenne,48.892492268201934,2.3443200293804827,48.89057957856722,2.359808478084024,Métro 12
+Jules Joffrin,Notre-Dame des Champs,True,4.98,pollution faible,pollution faible,48.892492268201934,2.3443200293804827,48.84508150807547,2.328564944227944,Métro 12
+Notre-Dame des Champs,Vaugirard,True,1.95,pollution faible,pollution faible,48.84508150807547,2.328564944227944,48.83953628376544,2.300977822126098,Métro 12
+Porte de Versailles,Vaugirard,True,1.14,pollution faible,pollution faible,48.83230151439446,2.28813294509322,48.83953628376544,2.300977822126098,Métro 12
+Abbesses,Porte de Versailles,True,6.34,pollution faible,pollution faible,48.88439271799143,2.338394635220906,48.83230151439446,2.28813294509322,Métro 12
+Gaîté,Saint-François-Xavier,True,1.42,pollution faible,pollution moyenne,48.83852608502253,2.3223539967788067,48.8512787565696,2.314407403528732,Métro 13
+Asnières - Gennevilliers Les Courtilles,Gaîté,True,9.8,pollution faible,pollution faible,48.93060364140038,2.284372100658843,48.83852608502253,2.3223539967788067,Métro 13
+Asnières - Gennevilliers Les Courtilles,Porte de Saint-Ouen,True,4.55,pollution faible,pollution faible,48.93060364140038,2.284372100658843,48.89749783732745,2.3290483407446505,Métro 13
+Carrefour Pleyel,Porte de Saint-Ouen,True,2.48,pollution faible,pollution faible,48.91973260804976,2.343534674183465,48.89749783732745,2.3290483407446505,Métro 13
+Carrefour Pleyel,Garibaldi,True,1.58,pollution faible,pollution faible,48.91973260804976,2.343534674183465,48.906372391923206,2.331962553647662,Métro 13
+Garibaldi,Place de Clichy,True,2.34,pollution faible,pollution faible,48.906372391923206,2.331962553647662,48.88373789022764,2.327398345647013,Métro 13
+Miromesnil,Place de Clichy,True,1.34,pollution moyenne,pollution faible,48.87369210197914,2.3146768238242688,48.88373789022764,2.327398345647013,Métro 13
+Invalides,Miromesnil,True,1.29,pollution faible,pollution moyenne,48.86109201138112,2.3146326604445164,48.87369210197914,2.3146768238242688,Métro 13
+Invalides,Plaisance,True,3.01,pollution faible,pollution moyenne,48.86109201138112,2.3146326604445164,48.83175036306747,2.313860489344306,Métro 13
+Les Agnettes,Plaisance,True,9.56,pollution faible,pollution moyenne,48.92308777796361,2.286263202479002,48.83175036306747,2.313860489344306,Métro 13
+Les Agnettes,Porte de Clichy,True,3.48,pollution faible,pollution moyenne,48.92308777796361,2.286263202479002,48.89428867785142,2.313431869544054,Métro 13
+Porte de Clichy,Saint-Denis - Université,True,6.33,pollution moyenne,pollution moyenne,48.89428867785142,2.313431869544054,48.945911458883856,2.364494290510317,Métro 13
+Malakoff - Plateau de Vanves,Saint-Denis - Université,True,13.47,pollution faible,pollution moyenne,48.82220756804045,2.298295381702497,48.945911458883856,2.364494290510317,Métro 13
+Duroc,Malakoff - Plateau de Vanves,True,2.8,pollution moyenne,pollution faible,48.84675637808778,2.3162247549746047,48.82220756804045,2.298295381702497,Métro 13
+Duroc,Liège,True,3.44,pollution moyenne,pollution faible,48.84675637808778,2.3162247549746047,48.87953493737576,2.3268526712397555,Métro 13
+Liège,Saint-Lazare,True,0.5,pollution faible,pollution moyenne,48.87953493737576,2.3268526712397555,48.87496650103443,2.3244924701707954,Métro 13
+Porte de Vanves,Saint-Lazare,True,5.03,pollution faible,pollution moyenne,48.82761346400429,2.305332386657473,48.87496650103443,2.3244924701707954,Métro 13
+Mairie de Clichy,Porte de Vanves,True,7.79,pollution moyenne,pollution faible,48.90349897462669,2.3058484063578857,48.82761346400429,2.305332386657473,Métro 13
+Guy Môquet,Mairie de Clichy,True,1.82,pollution faible,pollution moyenne,48.8930014419616,2.327483258626126,48.90349897462669,2.3058484063578857,Métro 13
+Basilique de Saint-Denis,Guy Môquet,True,4.98,pollution moyenne,pollution faible,48.93678306532419,2.3592958408126816,48.8930014419616,2.327483258626126,Métro 13
+Basilique de Saint-Denis,Pernety,True,10.89,pollution moyenne,pollution faible,48.93678306532419,2.3592958408126816,48.83416372097089,2.318323659736018,Métro 13
+Gabriel Péri,Pernety,True,8.59,pollution moyenne,pollution faible,48.91634741814672,2.29460408001733,48.83416372097089,2.318323659736018,Métro 13
+Gabriel Péri,La Fourche,True,3.64,pollution moyenne,pollution faible,48.91634741814672,2.29460408001733,48.88742451051807,2.325686960766736,Métro 13
+La Fourche,Varenne,True,3.24,pollution faible,pollution moyenne,48.88742451051807,2.325686960766736,48.85662420264694,2.3149776470363417,Métro 13
+Bibliothèque François Mitterrand,Porte de Clichy,True,7.87,pollution faible,pollution moyenne,48.829925765928905,2.376487371168301,48.89428867785142,2.313431869544054,Métro 14
+Pont Cardinet,Porte de Clichy,True,0.65,pollution moyenne,pollution moyenne,48.8881023898884,2.3151908648850013,48.89428867785142,2.313431869544054,Métro 14
+Pont Cardinet,Saint-Lazare,True,1.49,pollution moyenne,pollution moyenne,48.8881023898884,2.3151908648850013,48.87496650103443,2.3244924701707954,Métro 14
+Madeleine,Saint-Lazare,True,0.56,pollution moyenne,pollution moyenne,48.86956561611772,2.3260272117729994,48.87496650103443,2.3244924701707954,Métro 14
+Madeleine,Mairie de Saint-Ouen,True,4.35,pollution moyenne,pollution moyenne,48.86956561611772,2.3260272117729994,48.91164217552501,2.333545807213269,Métro 14
+Cour Saint-Emilion,Mairie de Saint-Ouen,True,8.81,pollution faible,pollution moyenne,48.83331930384343,2.386617850214058,48.91164217552501,2.333545807213269,Métro 14
+Couronnes,Ménilmontant,True,0.36,pollution moyenne,pollution moyenne,48.86932051914457,2.3805336747351005,48.866440166781686,2.38353966877949,Métro 2
+Belleville,Couronnes,True,0.4,pollution élevée,pollution moyenne,48.87231407736167,2.3768306915222848,48.86932051914457,2.3805336747351005,Métro 2
+Avron,Belleville,True,2.57,pollution moyenne,pollution élevée,48.85164854359716,2.3981875566593973,48.87231407736167,2.3768306915222848,Métro 2
+Avron,Victor Hugo,True,7.83,pollution moyenne,pollution moyenne,48.85164854359716,2.3981875566593973,48.8698545716049,2.2859020006220643,Métro 2
+Alexandre Dumas,Victor Hugo,True,7.49,pollution moyenne,pollution moyenne,48.856199097341126,2.394591418672128,48.8698545716049,2.2859020006220643,Métro 2
+Alexandre Dumas,Philippe Auguste,True,0.34,pollution moyenne,pollution moyenne,48.856199097341126,2.394591418672128,48.85808942813576,2.390497596745289,Métro 2
+Colonel Fabien,Philippe Auguste,True,2.42,pollution moyenne,pollution moyenne,48.877695345805535,2.370576102819657,48.85808942813576,2.390497596745289,Métro 2
+Colonel Fabien,Place de Clichy,True,2.99,pollution moyenne,pollution faible,48.877695345805535,2.370576102819657,48.88373789022764,2.327398345647013,Métro 2
+Pigalle,Place de Clichy,True,0.69,pollution moyenne,pollution faible,48.88201178841109,2.3371840091053384,48.88373789022764,2.327398345647013,Métro 2
+Nation,Pigalle,True,5.23,pollution moyenne,pollution moyenne,48.84888521841715,2.3959437210498136,48.88201178841109,2.3371840091053384,Métro 2
+Nation,Père Lachaise,True,1.59,pollution moyenne,pollution moyenne,48.84888521841715,2.3959437210498136,48.86296417435419,2.386157046298338,Métro 2
+Anvers,Père Lachaise,True,3.5,pollution moyenne,pollution moyenne,48.882868568843925,2.344154840330292,48.86296417435419,2.386157046298338,Métro 2
+Anvers,Charles de Gaulle - Etoile,True,3.44,pollution moyenne,pollution faible,48.882868568843925,2.344154840330292,48.87392926445533,2.2951172138230334,Métro 2
+Charles de Gaulle - Etoile,Rome,True,1.98,pollution faible,pollution moyenne,48.87392926445533,2.2951172138230334,48.88234581879614,2.3213591738229726,Métro 2
+Courcelles,Rome,True,1.26,pollution moyenne,pollution moyenne,48.87926525411311,2.303294362425212,48.88234581879614,2.3213591738229726,Métro 2
+Saint-Lazare,Temple,True,2.65,pollution moyenne,pollution moyenne,48.87496650103443,2.3244924701707954,48.86668483219092,2.361589378332189,Métro 3
+Rue Saint-Maur,Saint-Lazare,True,3.95,pollution moyenne,pollution moyenne,48.86413108020325,2.380486332251813,48.87496650103443,2.3244924701707954,Métro 3
+Quatre Septembre,Rue Saint-Maur,True,3.05,pollution moyenne,pollution moyenne,48.86959592111917,2.3362786423248583,48.86413108020325,2.380486332251813,Métro 3
+Pont de Levallois - Bécon,Quatre Septembre,True,4.73,pollution faible,pollution moyenne,48.89722831603318,2.28030375318625,48.86959592111917,2.3362786423248583,Métro 3
+Parmentier,Pont de Levallois - Bécon,True,7.19,pollution moyenne,pollution faible,48.86524326053047,2.3747205969196896,48.89722831603318,2.28030375318625,Métro 3
+Europe,Parmentier,True,3.82,pollution faible,pollution moyenne,48.87875316404477,2.32218591952051,48.86524326053047,2.3747205969196896,Métro 3
+Europe,République,True,3.01,pollution faible,pollution moyenne,48.87875316404477,2.32218591952051,48.86742161002706,2.363149406900382,Métro 3
+Louise Michel,République,True,5.51,pollution moyenne,pollution moyenne,48.88853900119613,2.2882778490679767,48.86742161002706,2.363149406900382,Métro 3
+Gallieni,Louise Michel,True,8.96,pollution faible,pollution moyenne,48.86539746068654,2.415921484287642,48.88853900119613,2.2882778490679767,Métro 3
+Gallieni,Pereire,True,8.25,pollution faible,pollution moyenne,48.86539746068654,2.415921484287642,48.88492986463719,2.297701123838181,Métro 3
+Pereire,Wagram,True,0.48,pollution moyenne,pollution moyenne,48.88492986463719,2.297701123838181,48.8838463907272,2.304673087584434,Métro 3
+Anatole France,Wagram,True,1.59,pollution faible,pollution moyenne,48.892206617614,2.28498169634032,48.8838463907272,2.304673087584434,Métro 3
+Anatole France,Père Lachaise,True,7.48,pollution faible,pollution moyenne,48.892206617614,2.28498169634032,48.86296417435419,2.386157046298338,Métro 3
+Bourse,Père Lachaise,True,3.14,pollution moyenne,pollution moyenne,48.86879284393317,2.340678546975881,48.86296417435419,2.386157046298338,Métro 3
+Arts et Métiers,Bourse,True,1.13,pollution moyenne,pollution moyenne,48.86529961264491,2.3565081436435467,48.86879284393317,2.340678546975881,Métro 3
+Arts et Métiers,Havre-Caumartin,True,2.14,pollution moyenne,pollution faible,48.86529961264491,2.3565081436435467,48.87346783937801,2.327462798423509,Métro 3
+Havre-Caumartin,Opéra,True,0.47,pollution faible,pollution faible,48.87346783937801,2.327462798423509,48.87030303390994,2.3324387808144875,Métro 3
+Opéra,Réaumur - Sébastopol,True,1.42,pollution faible,pollution faible,48.87030303390994,2.3324387808144875,48.866077771215046,2.352381731140252,Métro 3
+Montparnasse Bienvenue,Simplon,True,5.37,pollution faible,pollution faible,48.84385251452581,2.3243294607791096,48.8938152613519,2.347794968187123,Métro 4
+Cité,Simplon,True,3.99,pollution moyenne,pollution faible,48.85493384910671,2.3472322349319112,48.8938152613519,2.347794968187123,Métro 4
+Cité,Porte d'Orléans,True,3.55,pollution moyenne,pollution moyenne,48.85493384910671,2.3472322349319112,48.82339460262072,2.325623760353114,Métro 4
+Porte d'Orléans,Raspail,True,1.65,pollution moyenne,pollution faible,48.82339460262072,2.325623760353114,48.83915635952557,2.330466993719873,Métro 4
+Raspail,Réaumur - Sébastopol,True,3.14,pollution faible,pollution faible,48.83915635952557,2.330466993719873,48.866077771215046,2.352381731140252,Métro 4
+Réaumur - Sébastopol,Saint-Placide,True,2.6,pollution faible,pollution faible,48.866077771215046,2.352381731140252,48.84700665158937,2.327054815066312,Métro 4
+Les Halles,Saint-Placide,True,2.05,pollution faible,pollution faible,48.86252665962869,2.34600573656331,48.84700665158937,2.327054815066312,Métro 4
+Les Halles,Saint-Michel,True,0.93,pollution faible,pollution faible,48.86252665962869,2.34600573656331,48.85359407756809,2.343991799033288,Métro 4
+Etienne Marcel,Saint-Michel,True,1.09,pollution faible,pollution faible,48.86370301202431,2.3489761968791085,48.85359407756809,2.343991799033288,Métro 4
+Etienne Marcel,Mouton-Duvernet,True,3.56,pollution faible,pollution faible,48.86370301202431,2.3489761968791085,48.831382009093616,2.32979034782274,Métro 4
+Mouton-Duvernet,Vavin,True,1.1,pollution faible,pollution faible,48.831382009093616,2.32979034782274,48.84205232329236,2.3288628540691043,Métro 4
+Château d'Eau,Vavin,True,3.62,pollution faible,pollution faible,48.87247308911766,2.355901449780536,48.84205232329236,2.3288628540691043,Métro 4
+Château d'Eau,Gare de l'Est,True,0.41,pollution faible,pollution moyenne,48.87247308911766,2.355901449780536,48.87616299446643,2.35806459441865,Métro 4
+Gare de l'Est,Mairie de Montrouge,True,6.47,pollution moyenne,pollution moyenne,48.87616299446643,2.35806459441865,48.81847190007368,2.319523835754741,Métro 4
+Denfert-Rochereau,Mairie de Montrouge,True,1.8,pollution faible,pollution moyenne,48.83392232305997,2.332128160437612,48.81847190007368,2.319523835754741,Métro 4
+Bagneux - Lucie Aubrac,Denfert-Rochereau,True,3.27,pollution faible,pollution faible,48.80354822259104,2.317458362049886,48.83392232305997,2.332128160437612,Métro 4
+Bagneux - Lucie Aubrac,Marcadet - Poissonniers,True,9.3,pollution faible,pollution moyenne,48.80354822259104,2.317458362049886,48.89154760285429,2.3500246218070155,Métro 4
+Marcadet - Poissonniers,Saint-Sulpice,True,4.34,pollution moyenne,pollution faible,48.89154760285429,2.3500246218070155,48.85113858957915,2.330953550650454,Métro 4
+Alésia,Saint-Sulpice,True,2.37,pollution faible,pollution faible,48.82815215770352,2.3271926250651647,48.85113858957915,2.330953550650454,Métro 4
+Alésia,Porte de Clignancourt,True,7.22,pollution faible,pollution moyenne,48.82815215770352,2.3271926250651647,48.897525631278015,2.344624099102791,Métro 4
+Hoche,Stalingrad,True,2.54,pollution moyenne,pollution moyenne,48.8914957494373,2.403114154894396,48.8841445128949,2.367348121277192,Métro 5
+Hoche,Porte de Pantin,True,0.81,pollution moyenne,pollution moyenne,48.8914957494373,2.403114154894396,48.88845921134684,2.3921229723281483,Métro 5
+Gare de l'Est,Porte de Pantin,True,2.63,pollution moyenne,pollution moyenne,48.87616299446643,2.35806459441865,48.88845921134684,2.3921229723281483,Métro 5
+Bastille,Gare de l'Est,True,2.46,pollution moyenne,pollution moyenne,48.85328747830434,2.368922075646989,48.87616299446643,2.35806459441865,Métro 5
+Bastille,Saint-Marcel,True,1.62,pollution moyenne,pollution moyenne,48.85328747830434,2.368922075646989,48.83847698406796,2.3608176665940044,Métro 5
+Ourcq,Saint-Marcel,True,5.29,pollution élevée,pollution moyenne,48.88714990283661,2.3866765356019912,48.83847698406796,2.3608176665940044,Métro 5
+Ourcq,Richard-Lenoir,True,2.98,pollution élevée,pollution moyenne,48.88714990283661,2.3866765356019912,48.85987693786871,2.371813630476951,Métro 5
+Bréguet-Sabin,Richard-Lenoir,True,0.39,pollution moyenne,pollution moyenne,48.85624405468632,2.370194668589752,48.85987693786871,2.371813630476951,Métro 5
+Bréguet-Sabin,Gare du Nord,True,2.56,pollution moyenne,pollution moyenne,48.85624405468632,2.370194668589752,48.87968001223662,2.357342884924845,Métro 5
+Bobigny-Pantin - Raymond Queneau,Gare du Nord,True,4.95,pollution moyenne,pollution moyenne,48.89560207433252,2.426308679232036,48.87968001223662,2.357342884924845,Métro 5
+Bobigny-Pantin - Raymond Queneau,Campo-Formio,True,7.68,pollution moyenne,pollution moyenne,48.89560207433252,2.426308679232036,48.83559543123327,2.358468834639247,Métro 5
+Campo-Formio,Oberkampf,True,3.07,pollution moyenne,pollution élevée,48.83559543123327,2.358468834639247,48.86477709852134,2.3681558453945515,Métro 5
+Dugommier,Kléber,True,7.33,pollution moyenne,pollution moyenne,48.83903652832887,2.3895997700798097,48.87148941293503,2.293146137248626,Métro 6
+Daumesnil,Kléber,True,7.71,pollution moyenne,pollution moyenne,48.839537421644565,2.396146067915452,48.87148941293503,2.293146137248626,Métro 6
+Boissière,Daumesnil,True,7.72,pollution moyenne,pollution moyenne,48.8668483434173,2.2900328376074373,48.839537421644565,2.396146067915452,Métro 6
+Boissière,Nation,True,7.41,pollution moyenne,pollution moyenne,48.8668483434173,2.2900328376074373,48.84888521841715,2.3959437210498136,Métro 6
+Nation,Trocadéro,True,7.49,pollution moyenne,pollution moyenne,48.84888521841715,2.3959437210498136,48.86346147371448,2.287625377853519,Métro 9
+Charles de Gaulle - Etoile,Trocadéro,True,1.19,pollution faible,pollution moyenne,48.87392926445533,2.2951172138230334,48.86346147371448,2.287625377853519,Métro 6
+Charles de Gaulle - Etoile,Picpus,True,7.78,pollution faible,pollution moyenne,48.87392926445533,2.2951172138230334,48.84510324750185,2.401274538822374,Métro 6
+Pasteur,Picpus,True,6.0,pollution moyenne,pollution moyenne,48.842482718285865,2.312792651441268,48.84510324750185,2.401274538822374,Métro 6
+Chaussée d'Antin - La Fayette,Palais Royal - Musée du Louvre,True,1.1,pollution moyenne,pollution moyenne,48.87313420577469,2.333738594408701,48.86268399776967,2.337007354765684,Métro 7
+Palais Royal - Musée du Louvre,Porte d'Italie,True,4.73,pollution moyenne,pollution faible,48.86268399776967,2.337007354765684,48.81910659655869,2.3595297331071694,Métro 7
+Poissonnière,Porte d'Italie,True,6.0,pollution faible,pollution faible,48.87716484925024,2.3487397513900734,48.81910659655869,2.3595297331071694,Métro 7
+Cadet,Poissonnière,True,0.32,pollution faible,pollution faible,48.87604838013132,2.344383883779656,48.87716484925024,2.3487397513900734,Métro 7
+Cadet,Pierre et Marie Curie,True,6.57,pollution faible,pollution moyenne,48.87604838013132,2.344383883779656,48.81583650099709,2.377246886036494,Métro 7
+Maison Blanche,Pierre et Marie Curie,True,1.43,pollution moyenne,pollution moyenne,48.82214950607496,2.358412946155939,48.81583650099709,2.377246886036494,Métro 7
+Maison Blanche,Stalingrad,True,6.39,pollution moyenne,pollution moyenne,48.82214950607496,2.358412946155939,48.8841445128949,2.367348121277192,Métro 7
+Le Peletier,Stalingrad,True,2.07,pollution faible,pollution moyenne,48.87485179367072,2.340206459456337,48.8841445128949,2.367348121277192,Métro 7
+Le Peletier,Villejuif Paul Vaillant-Couturier,True,8.28,pollution faible,pollution moyenne,48.87485179367072,2.340206459456337,48.79631793416014,2.3683316015776423,Métro 7
+Censier - Daubenton,Villejuif Paul Vaillant-Couturier,True,4.65,pollution moyenne,pollution moyenne,48.84022624851393,2.351626572605499,48.79631793416014,2.3683316015776423,Métro 7
+Censier - Daubenton,Pyramides,True,2.88,pollution moyenne,pollution faible,48.84022624851393,2.351626572605499,48.86588028991413,2.334417535966556,Métro 7
+Aubervilliers-Pantin Quatre Chemins,Pyramides,True,5.52,pollution moyenne,pollution faible,48.90375706036556,2.3922205712292195,48.86588028991413,2.334417535966556,Métro 7
+Aubervilliers-Pantin Quatre Chemins,Tolbiac,True,8.32,pollution moyenne,pollution moyenne,48.90375706036556,2.3922205712292195,48.82615323734341,2.357018567738162,Métro 7
+Fort d'Aubervilliers,Tolbiac,True,9.64,pollution moyenne,pollution moyenne,48.91475665506255,2.404075377271855,48.82615323734341,2.357018567738162,Métro 7
+Corentin Cariou,Fort d'Aubervilliers,True,2.53,pollution faible,pollution moyenne,48.89467266005628,2.382291557164633,48.91475665506255,2.404075377271855,Métro 7
+Corentin Cariou,Opéra,True,4.2,pollution faible,pollution faible,48.89467266005628,2.382291557164633,48.87030303390994,2.3324387808144875,Métro 7
+Opéra,Place d'Italie,True,4.27,pollution faible,pollution moyenne,48.87030303390994,2.3324387808144875,48.83154938471729,2.355330902236442,Métro 7
+Place d'Italie,Pont Neuf,True,2.92,pollution moyenne,pollution faible,48.83154938471729,2.355330902236442,48.85854633926832,2.341776749148542,Métro 7
+Place Monge,Pont Neuf,True,1.78,pollution moyenne,pollution faible,48.842666385642886,2.3521548685787708,48.85854633926832,2.341776749148542,Métro 7
+Place Monge,Porte de Choisy,True,2.47,pollution moyenne,pollution faible,48.842666385642886,2.3521548685787708,48.82005592914816,2.3646785940494577,Métro 7
+Porte d'Ivry,Porte de Choisy,True,0.34,pollution faible,pollution faible,48.82135298833688,2.369294978223312,48.82005592914816,2.3646785940494577,Métro 7
+Mairie d'Ivry,Porte d'Ivry,True,1.42,pollution moyenne,pollution faible,48.811210093393306,2.383498053635828,48.82135298833688,2.369294978223312,Métro 7
+Le Kremlin-Bicêtre,Mairie d'Ivry,True,1.45,pollution moyenne,pollution moyenne,48.81025257278989,2.362130413802561,48.811210093393306,2.383498053635828,Métro 7
+Le Kremlin-Bicêtre,Riquet,True,8.03,pollution moyenne,pollution faible,48.81025257278989,2.362130413802561,48.88810829453359,2.373764152701256,Métro 7
+Jussieu,Riquet,True,4.48,pollution faible,pollution faible,48.8462878950311,2.354944184375758,48.88810829453359,2.373764152701256,Métro 7
+Buttes Chaumont,Louis Blanc,True,1.2,pollution moyenne,pollution moyenne,48.87849908839857,2.381569842088008,48.88118341152446,2.364365143550256,Métro 7B
+Bolivar,Louis Blanc,True,0.66,pollution moyenne,pollution moyenne,48.880789805531926,2.374152140698752,48.88118341152446,2.364365143550256,Métro 7B
+Bolivar,Jaurès,True,0.3,pollution moyenne,pollution moyenne,48.880789805531926,2.374152140698752,48.88234423020823,2.370451734004561,Métro 7B
+Danube,Jaurès,True,1.54,pollution moyenne,pollution moyenne,48.88194921492064,2.393228471227492,48.88234423020823,2.370451734004561,Métro 7B
+Danube,Place des Fêtes,True,0.54,pollution moyenne,pollution moyenne,48.88194921492064,2.393228471227492,48.87672366197325,2.393139370360497,Métro 7B
+Concorde,Ledru-Rollin,True,3.98,pollution moyenne,pollution moyenne,48.86652125193945,2.3220315426557194,48.85133776679838,2.376141223318593,Métro 8
+Concorde,Strasbourg - Saint-Denis,True,2.17,pollution moyenne,pollution moyenne,48.86652125193945,2.3220315426557194,48.86938572399119,2.353744768129407,Métro 8
+Boucicaut,Strasbourg - Saint-Denis,True,5.33,pollution faible,pollution moyenne,48.841024160993214,2.2879184311245595,48.86938572399119,2.353744768129407,Métro 8
+Boucicaut,Commerce,True,0.54,pollution faible,pollution faible,48.841024160993214,2.2879184311245595,48.84458485524012,2.293851708440619,Métro 8
+Commerce,République,True,5.25,pollution faible,pollution moyenne,48.84458485524012,2.293851708440619,48.86742161002706,2.363149406900382,Métro 8
+Porte Dorée,République,True,4.4,pollution moyenne,pollution moyenne,48.8350662204656,2.405749381400099,48.86742161002706,2.363149406900382,Métro 8
+Ecole Vétérinaire de Maisons-Alfort,Porte Dorée,True,2.37,pollution faible,pollution moyenne,48.814758684006726,2.422322751702586,48.8350662204656,2.405749381400099,Métro 8
+Ecole Vétérinaire de Maisons-Alfort,Invalides,True,8.71,pollution faible,pollution faible,48.814758684006726,2.422322751702586,48.86109201138112,2.3146326604445164,Métro 8
+Invalides,Madeleine,True,1.16,pollution faible,pollution moyenne,48.86109201138112,2.3146326604445164,48.86956561611772,2.3260272117729994,Métro 8
+Charenton - Ecoles,Madeleine,True,7.75,pollution moyenne,pollution moyenne,48.82125590204953,2.413847237068526,48.86956561611772,2.3260272117729994,Métro 8
+Charenton - Ecoles,Reuilly - Diderot,True,3.22,pollution moyenne,pollution moyenne,48.82125590204953,2.413847237068526,48.84721292669797,2.387201070409392,Métro 8
+Maisons-Alfort - Les Juilliottes,Reuilly - Diderot,True,6.02,pollution moyenne,pollution moyenne,48.80310585036659,2.4457883063759605,48.84721292669797,2.387201070409392,Métro 8
+Daumesnil,Maisons-Alfort - Les Juilliottes,True,5.03,pollution moyenne,pollution moyenne,48.839537421644565,2.396146067915452,48.80310585036659,2.4457883063759605,Métro 8
+Daumesnil,Richelieu - Drouot,True,5.14,pollution moyenne,pollution moyenne,48.839537421644565,2.396146067915452,48.87213587031796,2.3385912215385414,Métro 8
+Faidherbe - Chaligny,Richelieu - Drouot,True,3.82,pollution faible,pollution moyenne,48.85020070550927,2.384072471688875,48.87213587031796,2.3385912215385414,Métro 8
+Bonne Nouvelle,Faidherbe - Chaligny,True,3.18,pollution moyenne,pollution faible,48.87048144580479,2.348496122542364,48.85020070550927,2.384072471688875,Métro 8
+Balard,Bonne Nouvelle,True,5.88,pollution moyenne,pollution moyenne,48.83666789483108,2.2783626618092008,48.87048144580479,2.348496122542364,Métro 8
+Balard,Félix Faure,True,1.1,pollution moyenne,pollution faible,48.83666789483108,2.2783626618092008,48.84268433479664,2.2918472203679703,Métro 8
+Félix Faure,Porte de Charenton,True,7.56,pollution faible,pollution faible,48.84268433479664,2.2918472203679703,48.83344922287947,2.402511872850073,Métro 8
+Opéra,Porte de Charenton,True,6.07,pollution faible,pollution faible,48.87030303390994,2.3324387808144875,48.83344922287947,2.402511872850073,Métro 8
+Maisons-Alfort - Stade,Opéra,True,9.37,pollution moyenne,pollution faible,48.80891847848263,2.434819533389365,48.87030303390994,2.3324387808144875,Métro 8
+Maisons-Alfort - Stade,Montgallet,True,4.69,pollution moyenne,pollution faible,48.80891847848263,2.434819533389365,48.84400507570895,2.3904000136353645,Métro 8
+Saint-Ambroise,Saint-Philippe-du-Roule,True,4.46,pollution moyenne,pollution élevée,48.86141665790915,2.3738805382115475,48.87215513107743,2.3101372056878247,Métro 9
+Richelieu - Drouot,Saint-Philippe-du-Roule,True,1.93,pollution moyenne,pollution élevée,48.87213587031796,2.3385912215385414,48.87215513107743,2.3101372056878247,Métro 9
+Mairie de Montreuil,Richelieu - Drouot,True,7.06,pollution moyenne,pollution moyenne,48.8622744369706,2.4418193772459085,48.87213587031796,2.3385912215385414,Métro 9
+Mairie de Montreuil,Robespierre,True,1.45,pollution moyenne,pollution moyenne,48.8622744369706,2.4418193772459085,48.85567380855032,2.422973086496352,Métro 9
+Oberkampf,Robespierre,True,3.83,pollution élevée,pollution moyenne,48.86477709852134,2.3681558453945515,48.85567380855032,2.422973086496352,Métro 9
+Oberkampf,Strasbourg - Saint-Denis,True,1.08,pollution élevée,pollution moyenne,48.86477709852134,2.3681558453945515,48.86938572399119,2.353744768129407,Métro 9
+Grands Boulevards,Strasbourg - Saint-Denis,True,0.75,pollution moyenne,pollution moyenne,48.871558801223806,2.3432202183423976,48.86938572399119,2.353744768129407,Métro 9
+Grands Boulevards,Ranelagh,True,5.23,pollution moyenne,pollution moyenne,48.871558801223806,2.3432202183423976,48.85550355839564,2.269948157934635,Métro 9
+Franklin D. Roosevelt,Ranelagh,True,3.0,pollution moyenne,pollution moyenne,48.86872488799857,2.309488192337113,48.85550355839564,2.269948157934635,Métro 9
+Franklin D. Roosevelt,Marcel Sembat,True,5.74,pollution moyenne,pollution moyenne,48.86872488799857,2.309488192337113,48.83359298218974,2.243583048618053,Métro 9
+Marcel Sembat,Michel-Ange - Auteuil,True,1.99,pollution moyenne,pollution élevée,48.83359298218974,2.243583048618053,48.84770893216831,2.2638093220226634,Métro 9
+Michel-Ange - Auteuil,Rue des Boulets,True,8.5,pollution élevée,pollution moyenne,48.84770893216831,2.2638093220226634,48.85221407333194,2.3891047050322425,Métro 9
+Miromesnil,Rue des Boulets,True,5.5,pollution moyenne,pollution moyenne,48.87369210197914,2.3146768238242688,48.85221407333194,2.3891047050322425,Métro 9
+Miromesnil,Voltaire,True,4.72,pollution moyenne,pollution moyenne,48.87369210197914,2.3146768238242688,48.85766243438601,2.3800316941488044,Métro 9
+Jasmin,Voltaire,True,7.59,pollution moyenne,pollution moyenne,48.85246214784456,2.268219083521012,48.85766243438601,2.3800316941488044,Métro 9
+Jasmin,Nation,True,8.66,pollution moyenne,pollution moyenne,48.85246214784456,2.268219083521012,48.84888521841715,2.3959437210498136,Métro 9
+Nation,Porte de Saint-Cloud,True,9.49,pollution moyenne,pollution moyenne,48.84888521841715,2.3959437210498136,48.83799728287381,2.2567894964207142,Métro 9
+Exelmans,Porte de Saint-Cloud,True,0.51,pollution moyenne,pollution moyenne,48.842624465259945,2.25967486021195,48.83799728287381,2.2567894964207142,Métro 9
+Exelmans,Iéna,True,3.24,pollution moyenne,pollution élevée,48.842624465259945,2.25967486021195,48.86468583928868,2.293906396859107,Métro 9
+Charonne,Iéna,True,6.24,pollution moyenne,pollution élevée,48.85500743705073,2.3848878986690423,48.86468583928868,2.293906396859107,Métro 9
+Billancourt,Charonne,True,10.24,pollution moyenne,pollution moyenne,48.83191997405451,2.237891101038026,48.85500743705073,2.3848878986690423,Métro 9
+Billancourt,Porte de Montreuil,True,11.92,pollution moyenne,pollution moyenne,48.83191997405451,2.237891101038026,48.85348263120656,2.410718154027495,Métro 9
+Porte de Montreuil,Saint-Augustin,True,6.45,pollution moyenne,pollution moyenne,48.85348263120656,2.410718154027495,48.87454661293485,2.3210135978086,Métro 9
+Croix de Chavaux,Saint-Augustin,True,7.96,pollution moyenne,pollution moyenne,48.857992585158016,2.4358546126745826,48.87454661293485,2.3210135978086,Métro 9
+Chaussée d'Antin - La Fayette,Croix de Chavaux,True,7.09,pollution moyenne,pollution moyenne,48.87313420577469,2.333738594408701,48.857992585158016,2.4358546126745826,Métro 9
+Chaussée d'Antin - La Fayette,Trocadéro,True,3.28,pollution moyenne,pollution moyenne,48.87313420577469,2.333738594408701,48.86346147371448,2.287625377853519,Métro 9
+Bonne Nouvelle,Trocadéro,True,4.18,pollution moyenne,pollution moyenne,48.87048144580479,2.348496122542364,48.86346147371448,2.287625377853519,Métro 9
+Bonne Nouvelle,Maraîchers,True,4.31,pollution moyenne,pollution moyenne,48.87048144580479,2.348496122542364,48.85265013095636,2.4060490065790447,Métro 9
