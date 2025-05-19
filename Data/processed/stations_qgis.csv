@@ -1,0 +1,258 @@
+Nom de la Station,Nom de la ligne,niveau_pollution,pollution_num,stop_lat,stop_lon
+Stalingrad,Métro 5,pollution moyenne,2,48.8841445128949,2.367348121277192
+Saint-Ambroise,Métro 9,pollution moyenne,2,48.86141665790915,2.3738805382115475
+Ledru-Rollin,Métro 8,pollution moyenne,2,48.85133776679838,2.376141223318593
+Saint-Philippe-du-Roule,Métro 9,pollution élevée,3,48.87215513107743,2.3101372056878247
+Buttes Chaumont,Métro 7B,pollution moyenne,2,48.87849908839857,2.381569842088008
+Richelieu - Drouot,Métro 9,pollution moyenne,2,48.87213587031796,2.3385912215385414
+Mairie de Montreuil,Métro 9,pollution moyenne,2,48.8622744369706,2.4418193772459085
+Robespierre,Métro 9,pollution moyenne,2,48.85567380855032,2.422973086496352
+Oberkampf,Métro 9,pollution élevée,3,48.86477709852134,2.3681558453945515
+Concorde,Métro 8,pollution moyenne,2,48.86652125193945,2.3220315426557194
+Duroc,Métro 10,pollution moyenne,2,48.84675637808778,2.3162247549746047
+Strasbourg - Saint-Denis,Métro 8,pollution moyenne,2,48.86938572399119,2.353744768129407
+Louvre - Rivoli,Métro 1,pollution faible,1,48.86090733426327,2.3409964272720227
+Chaussée d'Antin - La Fayette,Métro 7,pollution moyenne,2,48.87313420577469,2.333738594408701
+Pont de Neuilly,Métro 1,pollution moyenne,2,48.88548938897471,2.258495429369125
+Strasbourg - Saint-Denis,Métro 9,pollution moyenne,2,48.869349679171926,2.353731582673184
+Grands Boulevards,Métro 9,pollution moyenne,2,48.871558801223806,2.3432202183423976
+Ranelagh,Métro 9,pollution moyenne,2,48.85550355839564,2.269948157934635
+Hoche,Métro 5,pollution moyenne,2,48.8914957494373,2.403114154894396
+Franklin D. Roosevelt,Métro 9,pollution moyenne,2,48.86872488799857,2.309488192337113
+Front Populaire,Métro 12,pollution moyenne,2,48.90666420278779,2.365792023989413
+Palais Royal - Musée du Louvre,Métro 7,pollution moyenne,2,48.86268399776967,2.337007354765684
+Saint-François-Xavier,Métro 13,pollution moyenne,2,48.8512787565696,2.314407403528732
+Boucicaut,Métro 8,pollution faible,1,48.841024160993214,2.2879184311245595
+Porte de Pantin,Métro 5,pollution moyenne,2,48.88845921134684,2.3921229723281483
+Montparnasse Bienvenue,Métro 4,pollution faible,1,48.84385251452581,2.3243294607791096
+Cardinal Lemoine,Métro 10,pollution moyenne,2,48.84670003526311,2.3513280016731763
+Convention,Métro 12,pollution moyenne,2,48.83713505380496,2.2963913864809173
+Gaîté,Métro 13,pollution faible,1,48.83852608502253,2.3223539967788067
+Temple,Métro 3,pollution moyenne,2,48.86668483219092,2.361589378332189
+Sèvres - Babylone,Métro 10,pollution moyenne,2,48.85093150598804,2.326104689925573
+Simplon,Métro 4,pollution faible,1,48.8938152613519,2.347794968187123
+Porte d'Auteuil,Métro 10,pollution moyenne,2,48.84790412362924,2.258280744595537
+Mairie d'Issy,Métro 12,pollution moyenne,2,48.82434428766646,2.273558168023932
+Saint-Lazare,Métro 3,pollution moyenne,2,48.87496650103443,2.3244924701707954
+Rue Saint-Maur,Métro 3,pollution moyenne,2,48.86413108020325,2.380486332251813
+Asnières - Gennevilliers Les Courtilles,Métro 13,pollution faible,1,48.93060364140038,2.284372100658843
+Cité,Métro 4,pollution moyenne,2,48.85493384910671,2.3472322349319112
+Rennes,Métro 12,pollution moyenne,2,48.84819024311401,2.32802068556793
+Porte d'Italie,Métro 7,pollution faible,1,48.81910659655869,2.3595297331071694
+Bibliothèque François Mitterrand,Métro 14,pollution faible,1,48.829925765928905,2.376487371168301
+Porte d'Orléans,Métro 4,pollution moyenne,2,48.82339460262072,2.325623760353114
+Ménilmontant,Métro 2,pollution moyenne,2,48.866440166781686,2.38353966877949
+Commerce,Métro 8,pollution faible,1,48.84458485524012,2.293851708440619
+Quatre Septembre,Métro 3,pollution moyenne,2,48.86959592111917,2.3362786423248583
+Ségur,Métro 10,pollution moyenne,2,48.84716726999503,2.307137849403385
+Concorde,Métro 12,pollution moyenne,2,48.86615003482594,2.323181449571859
+République,Métro 8,pollution moyenne,2,48.86742161002706,2.363149406900382
+Porte Dorée,Métro 8,pollution moyenne,2,48.8350662204656,2.405749381400099
+Ecole Vétérinaire de Maisons-Alfort,Métro 8,pollution faible,1,48.814758684006726,2.422322751702586
+Invalides,Métro 8,pollution faible,1,48.86109201138112,2.3146326604445164
+Raspail,Métro 4,pollution faible,1,48.83915635952557,2.330466993719873
+Marcel Sembat,Métro 9,pollution moyenne,2,48.83359298218974,2.243583048618053
+Porte de Saint-Ouen,Métro 13,pollution faible,1,48.89749783732745,2.3290483407446505
+Maubert - Mutualité,Métro 10,pollution moyenne,2,48.85010969451494,2.348219343927666
+Michel-Ange - Auteuil,Métro 9,pollution élevée,3,48.84770893216831,2.2638093220226634
+Rue des Boulets,Métro 9,pollution moyenne,2,48.85221407333194,2.3891047050322425
+Arts et Métiers,Métro 11,pollution moyenne,2,48.86529961264491,2.3565081436435467
+Madeleine,Métro 8,pollution moyenne,2,48.86956561611772,2.3260272117729994
+Miromesnil,Métro 9,pollution moyenne,2,48.87369210197914,2.3146768238242688
+Réaumur - Sébastopol,Métro 4,pollution faible,1,48.866077771215046,2.352381731140252
+Saint-Paul (Le Marais),Métro 1,pollution faible,1,48.85518742160445,2.3608852562751967
+Volontaires,Métro 12,pollution moyenne,2,48.84141172841498,2.3079833805768515
+Concorde,Métro 1,pollution faible,1,48.86655799294972,2.3229614457982586
+Voltaire,Métro 9,pollution moyenne,2,48.85766243438601,2.3800316941488044
+Couronnes,Métro 2,pollution moyenne,2,48.86932051914457,2.3805336747351005
+Gare de l'Est,Métro 5,pollution moyenne,2,48.87616299446643,2.35806459441865
+Saint-Placide,Métro 4,pollution faible,1,48.84700665158937,2.327054815066312
+Porte de Clichy,Métro 14,pollution moyenne,2,48.89428867785142,2.313431869544054
+Poissonnière,Métro 7,pollution faible,1,48.87716484925024,2.3487397513900734
+Louis Blanc,Métro 7B,pollution moyenne,2,48.88118341152446,2.364365143550256
+Pigalle,Métro 12,pollution moyenne,2,48.88201178841109,2.3371840091053384
+Notre-Dame-de-Lorette,Métro 12,pollution moyenne,2,48.87604417483004,2.337900771823332
+Jasmin,Métro 9,pollution moyenne,2,48.85246214784456,2.268219083521012
+Carrefour Pleyel,Métro 13,pollution faible,1,48.91973260804976,2.343534674183465
+Pont de Levallois - Bécon,Métro 3,pollution faible,1,48.89722831603318,2.28030375318625
+Garibaldi,Métro 13,pollution faible,1,48.906372391923206,2.331962553647662
+Parmentier,Métro 3,pollution moyenne,2,48.86524326053047,2.3747205969196896
+Les Halles,Métro 4,pollution faible,1,48.86252665962869,2.34600573656331
+Dugommier,Métro 6,pollution moyenne,2,48.83903652832887,2.3895997700798097
+Bastille,Métro 5,pollution moyenne,2,48.85328747830434,2.368922075646989
+Europe,Métro 3,pollution faible,1,48.87875316404477,2.32218591952051
+Mabillon,Métro 10,pollution faible,1,48.85284373829949,2.335142819346476
+Place des Fêtes,Métro 11,pollution moyenne,2,48.87672366197325,2.393139370360497
+République,Métro 3,pollution moyenne,2,48.86720306822776,2.364333297545428
+Nation,Métro 9,pollution moyenne,2,48.84888521841715,2.3959437210498136
+Belleville,Métro 2,pollution élevée,3,48.87231407736167,2.3768306915222848
+Cadet,Métro 7,pollution faible,1,48.87604838013132,2.344383883779656
+Place de Clichy,Métro 13,pollution faible,1,48.88373789022764,2.327398345647013
+Saint-Marcel,Métro 5,pollution moyenne,2,48.83847698406796,2.3608176665940044
+Montparnasse Bienvenue,Métro 12,pollution moyenne,2,48.84374228942691,2.32392211008296
+Miromesnil,Métro 13,pollution faible,1,48.87344791579522,2.3160106931210245
+Saint-Michel,Métro 4,pollution faible,1,48.85359407756809,2.343991799033288
+Avron,Métro 2,pollution moyenne,2,48.85164854359716,2.3981875566593973
+Pierre et Marie Curie,Métro 7,pollution moyenne,2,48.81583650099709,2.377246886036494
+Louise Michel,Métro 3,pollution moyenne,2,48.88853900119613,2.2882778490679767
+Porte de Saint-Cloud,Métro 9,pollution moyenne,2,48.83799728287381,2.2567894964207142
+Palais Royal - Musée du Louvre,Métro 1,pollution moyenne,2,48.86222226557415,2.336454367754252
+Etienne Marcel,Métro 4,pollution faible,1,48.86370301202431,2.3489761968791085
+Maison Blanche,Métro 7,pollution moyenne,2,48.82214950607496,2.358412946155939
+Stalingrad,Métro 7,pollution moyenne,2,48.88437303056126,2.3688985490576733
+Victor Hugo,Métro 2,pollution moyenne,2,48.8698545716049,2.2859020006220643
+Alexandre Dumas,Métro 2,pollution moyenne,2,48.856199097341126,2.394591418672128
+Exelmans,Métro 9,pollution moyenne,2,48.842624465259945,2.25967486021195
+Mouton-Duvernet,Métro 4,pollution faible,1,48.831382009093616,2.32979034782274
+Bolivar,Métro 7B,pollution moyenne,2,48.880789805531926,2.374152140698752
+Gallieni,Métro 3,pollution faible,1,48.86539746068654,2.415921484287642
+Vavin,Métro 4,pollution faible,1,48.84205232329236,2.3288628540691043
+Charenton - Ecoles,Métro 8,pollution moyenne,2,48.82125590204953,2.413847237068526
+Invalides,Métro 13,pollution faible,1,48.86053445554123,2.3146399951225347
+Le Peletier,Métro 7,pollution faible,1,48.87485179367072,2.340206459456337
+Plaisance,Métro 13,pollution moyenne,2,48.83175036306747,2.313860489344306
+Pereire,Métro 3,pollution moyenne,2,48.88492986463719,2.297701123838181
+Gare de Lyon,Métro 1,pollution moyenne,2,48.84575948671397,2.373125016776689
+Kléber,Métro 6,pollution moyenne,2,48.87148941293503,2.293146137248626
+Les Agnettes,Métro 13,pollution faible,1,48.92308777796361,2.286263202479002
+Philippe Auguste,Métro 2,pollution moyenne,2,48.85808942813576,2.390497596745289
+Porte de Clichy,Métro 13,pollution moyenne,2,48.89443128801746,2.31320835075881
+Argentine,Métro 1,pollution faible,1,48.87566737659971,2.289435418542214
+Villejuif Paul Vaillant-Couturier,Métro 7,pollution moyenne,2,48.79631793416014,2.3683316015776423
+Iéna,Métro 9,pollution élevée,3,48.86468583928868,2.293906396859107
+Pyrénées,Métro 11,pollution moyenne,2,48.87381265491752,2.384883957748741
+Wagram,Métro 3,pollution moyenne,2,48.8838463907272,2.304673087584434
+Censier - Daubenton,Métro 7,pollution moyenne,2,48.84022624851393,2.351626572605499
+Goncourt,Métro 11,pollution moyenne,2,48.8700070178386,2.3707644347484003
+Falguière,Métro 12,pollution moyenne,2,48.844317683534335,2.317551235617027
+Charonne,Métro 9,pollution moyenne,2,48.85500743705073,2.3848878986690423
+Pyramides,Métro 7,pollution faible,1,48.86588028991413,2.334417535966556
+Aubervilliers-Pantin Quatre Chemins,Métro 7,pollution moyenne,2,48.90375706036556,2.3922205712292195
+Ourcq,Métro 5,pollution élevée,3,48.88714990283661,2.3866765356019912
+Reuilly - Diderot,Métro 8,pollution moyenne,2,48.84721292669797,2.387201070409392
+Billancourt,Métro 9,pollution moyenne,2,48.83191997405451,2.237891101038026
+Tolbiac,Métro 7,pollution moyenne,2,48.82615323734341,2.357018567738162
+Odéon,Métro 10,pollution moyenne,2,48.8519477060765,2.340619126473996
+Michel-Ange - Auteuil,Métro 10,pollution moyenne,2,48.84797535417627,2.263989525333329
+Maisons-Alfort - Les Juilliottes,Métro 8,pollution moyenne,2,48.80310585036659,2.4457883063759605
+Fort d'Aubervilliers,Métro 7,pollution moyenne,2,48.91475665506255,2.404075377271855
+Saint-Denis - Université,Métro 13,pollution moyenne,2,48.945911458883856,2.364494290510317
+Colonel Fabien,Métro 2,pollution moyenne,2,48.877695345805535,2.370576102819657
+Daumesnil,Métro 6,pollution moyenne,2,48.839537421644565,2.396146067915452
+Javel - André Citroën,Métro 10,pollution moyenne,2,48.84618110622323,2.278009496527359
+Porte de la Chapelle,Métro 12,pollution faible,1,48.89740242267042,2.359248542310361
+Marcadet - Poissonniers,Métro 12,pollution moyenne,2,48.89154760285429,2.3500246218070155
+Charles de Gaulle - Etoile,Métro 1,pollution faible,1,48.87392926445533,2.2951172138230334
+Boissière,Métro 6,pollution moyenne,2,48.8668483434173,2.2900328376074373
+Mirabeau,Métro 10,pollution moyenne,2,48.84707750734599,2.2730641263728333
+Malakoff - Plateau de Vanves,Métro 13,pollution faible,1,48.82220756804045,2.298295381702497
+Daumesnil,Métro 8,pollution moyenne,2,48.83967393140864,2.395573606140371
+Anatole France,Métro 3,pollution faible,1,48.892206617614,2.28498169634032
+Duroc,Métro 13,pollution moyenne,2,48.84699198555429,2.316535081176305
+Richelieu - Drouot,Métro 8,pollution moyenne,2,48.87173920910264,2.3384190255427955
+Château d'Eau,Métro 4,pollution faible,1,48.87247308911766,2.355901449780536
+Corentin Cariou,Métro 7,pollution faible,1,48.89467266005628,2.382291557164633
+Saint-Lazare,Métro 12,pollution moyenne,2,48.875594817796994,2.327470237303278
+Père Lachaise,Métro 3,pollution moyenne,2,48.86296417435419,2.386157046298338
+Liège,Métro 13,pollution faible,1,48.87953493737576,2.3268526712397555
+Gare de l'Est,Métro 4,pollution faible,1,48.87627821831841,2.3577495818204395
+Pont Cardinet,Métro 14,pollution moyenne,2,48.8881023898884,2.3151908648850013
+Mairie de Montrouge,Métro 4,pollution moyenne,2,48.81847190007368,2.319523835754741
+Faidherbe - Chaligny,Métro 8,pollution faible,1,48.85020070550927,2.384072471688875
+Porte de Montreuil,Métro 9,pollution moyenne,2,48.85348263120656,2.410718154027495
+Bonne Nouvelle,Métro 8,pollution moyenne,2,48.87048144580479,2.348496122542364
+Opéra,Métro 7,pollution faible,1,48.87030303390994,2.3324387808144875
+Balard,Métro 8,pollution moyenne,2,48.83666789483108,2.2783626618092008
+Denfert-Rochereau,Métro 4,pollution faible,1,48.83392232305997,2.332128160437612
+Place d'Italie,Métro 7,pollution moyenne,2,48.83154938471729,2.355330902236442
+Place de Clichy,Métro 2,pollution moyenne,2,48.88366908827266,2.32795832801022
+Pigalle,Métro 2,pollution élevée,3,48.88226954222623,2.338257976509587
+Nation,Métro 6,pollution moyenne,2,48.84789550545761,2.3958598043279085
+Bourse,Métro 3,pollution moyenne,2,48.86879284393317,2.340678546975881
+Pont Neuf,Métro 7,pollution faible,1,48.85854633926832,2.341776749148542
+Charles Michels,Métro 10,pollution moyenne,2,48.84636172348247,2.2856243417995747
+Trocadéro,Métro 6,pollution moyenne,2,48.86346147371448,2.287625377853519
+Jaurès,Métro 7B,pollution moyenne,2,48.88234423020823,2.370451734004561
+Pelleport,Métro 3B,pollution moyenne,2,48.86842046799948,2.40160636134298
+Bérault,Métro 1,pollution faible,1,48.84549169626708,2.4292278831660283
+Saint-Lazare,Métro 13,pollution faible,1,48.87538131600797,2.325488390672613
+Saint-Augustin,Métro 9,pollution moyenne,2,48.87454661293485,2.3210135978086
+Félix Faure,Métro 8,pollution faible,1,48.84268433479664,2.2918472203679703
+Corentin Celton,Métro 12,pollution moyenne,2,48.82682329515912,2.2789586605256367
+Porte de Vincennes,Métro 1,pollution moyenne,2,48.84700773108863,2.4108049967015006
+Richard-Lenoir,Métro 5,pollution moyenne,2,48.85987693786871,2.371813630476951
+Aimé Césaire,Métro 12,pollution faible,1,48.90843758066954,2.37813084516706
+Porte de Vanves,Métro 13,pollution faible,1,48.82761346400429,2.305332386657473
+Mairie de Clichy,Métro 13,pollution moyenne,2,48.90349897462669,2.3058484063578857
+Saint-Georges,Métro 12,pollution faible,1,48.87841659490173,2.3375706403796697
+Place Monge,Métro 7,pollution moyenne,2,48.842666385642886,2.3521548685787708
+Belleville,Métro 11,pollution moyenne,2,48.87198955568015,2.376684607718542
+Porte de Charenton,Métro 8,pollution faible,1,48.83344922287947,2.402511872850073
+Nation,Métro 2,pollution moyenne,2,48.84845279707999,2.395798835112525
+Bagneux - Lucie Aubrac,Métro 4,pollution faible,1,48.80354822259104,2.317458362049886
+Lamarck - Caulaincourt,Métro 12,pollution faible,1,48.88968180996681,2.3385838243831936
+Saint-Lazare,Métro 14,pollution moyenne,2,48.87566085467199,2.3240258961246782
+La Motte-Picquet - Grenelle,Métro 10,pollution faible,1,48.849532805857095,2.298684579816939
+Boulogne Pont de Saint-Cloud,Métro 10,pollution moyenne,2,48.84067248206251,2.2283125898228056
+Opéra,Métro 8,pollution faible,1,48.87059812248669,2.332135072925294
+Guy Môquet,Métro 13,pollution faible,1,48.8930014419616,2.327483258626126
+Marcadet - Poissonniers,Métro 4,pollution faible,1,48.89127969913649,2.3495451670385634
+Arts et Métiers,Métro 3,pollution faible,1,48.86553459885931,2.3567233472754983
+Mairie des Lilas,Métro 11,pollution moyenne,2,48.87974365006289,2.4162978208011863
+Télégraphe,Métro 11,pollution moyenne,2,48.87551038418075,2.3986480899605933
+Porte de Choisy,Métro 7,pollution faible,1,48.82005592914816,2.3646785940494577
+George V,Métro 1,pollution faible,1,48.87203776458909,2.300759784978918
+Père Lachaise,Métro 2,pollution élevée,3,48.86248637862667,2.387689326065689
+Basilique de Saint-Denis,Métro 13,pollution moyenne,2,48.93678306532419,2.3592958408126816
+Maisons-Alfort - Stade,Métro 8,pollution moyenne,2,48.80891847848263,2.434819533389365
+Pernety,Métro 13,pollution faible,1,48.83416372097089,2.318323659736018
+Gabriel Péri,Métro 13,pollution moyenne,2,48.91634741814672,2.29460408001733
+Charles de Gaulle - Etoile,Métro 6,pollution moyenne,2,48.87383861478572,2.294995735441831
+Châtelet,Métro 11,pollution moyenne,2,48.85776111354502,2.3478374055687867
+Anvers,Métro 2,pollution moyenne,2,48.882868568843925,2.344154840330292
+Porte d'Ivry,Métro 7,pollution faible,1,48.82135298833688,2.369294978223312
+Bréguet-Sabin,Métro 5,pollution moyenne,2,48.85624405468632,2.370194668589752
+Gare du Nord,Métro 5,pollution moyenne,2,48.87968001223662,2.357342884924845
+Saint-Sulpice,Métro 4,pollution faible,1,48.85113858957915,2.330953550650454
+Picpus,Métro 6,pollution moyenne,2,48.84510324750185,2.401274538822374
+Bobigny-Pantin - Raymond Queneau,Métro 5,pollution moyenne,2,48.89560207433252,2.426308679232036
+Rambuteau,Métro 11,pollution moyenne,2,48.86119015695036,2.353273948594772
+Croix de Chavaux,Métro 9,pollution moyenne,2,48.857992585158016,2.4358546126745826
+Havre-Caumartin,Métro 3,pollution faible,1,48.87346783937801,2.327462798423509
+Marx Dormoy,Métro 12,pollution moyenne,2,48.89057957856722,2.359808478084024
+Mairie d'Ivry,Métro 7,pollution moyenne,2,48.811210093393306,2.383498053635828
+Chaussée d'Antin - La Fayette,Métro 9,pollution moyenne,2,48.87280723715393,2.333970457594147
+La Fourche,Métro 13,pollution faible,1,48.88742451051807,2.325686960766736
+Trocadéro,Métro 9,pollution élevée,3,48.863088061116,2.28683987979629
+Jules Joffrin,Métro 12,pollution faible,1,48.892492268201934,2.3443200293804827
+Campo-Formio,Métro 5,pollution moyenne,2,48.83559543123327,2.358468834639247
+Notre-Dame des Champs,Métro 12,pollution faible,1,48.84508150807547,2.328564944227944
+Madeleine,Métro 14,pollution moyenne,2,48.87054467671624,2.3258100487932776
+Pasteur,Métro 6,pollution moyenne,2,48.842482718285865,2.312792651441268
+Cluny - La Sorbonne,Métro 10,pollution moyenne,2,48.850793731720536,2.3450218824744566
+Mairie de Saint-Ouen,Métro 14,pollution moyenne,2,48.91164217552501,2.333545807213269
+Danube,Métro 7B,pollution moyenne,2,48.88194921492064,2.393228471227492
+Charles de Gaulle - Etoile,Métro 2,pollution moyenne,2,48.87494579313413,2.295927507409278
+Alésia,Métro 4,pollution faible,1,48.82815215770352,2.3271926250651647
+Rome,Métro 2,pollution moyenne,2,48.88234581879614,2.3213591738229726
+Le Kremlin-Bicêtre,Métro 7,pollution moyenne,2,48.81025257278989,2.362130413802561
+Vaugirard,Métro 12,pollution faible,1,48.83953628376544,2.300977822126098
+Opéra,Métro 3,pollution moyenne,2,48.87150983278418,2.331128974301561
+Montgallet,Métro 8,pollution faible,1,48.84400507570895,2.3904000136353645
+Bonne Nouvelle,Métro 9,pollution moyenne,2,48.87049007203075,2.348428667867017
+Reuilly - Diderot,Métro 1,pollution faible,1,48.84734982784612,2.3858367760086865
+Oberkampf,Métro 5,pollution élevée,3,48.86464456516527,2.3686045625807752
+Porte de Versailles,Métro 12,pollution faible,1,48.83230151439446,2.28813294509322
+Cour Saint-Emilion,Métro 14,pollution faible,1,48.83331930384343,2.386617850214058
+Abbesses,Métro 12,pollution faible,1,48.88439271799143,2.338394635220906
+Jussieu,Métro 10,pollution faible,1,48.8462878950311,2.354944184375758
+Riquet,Métro 7,pollution faible,1,48.88810829453359,2.373764152701256
+Maraîchers,Métro 9,pollution moyenne,2,48.85265013095636,2.4060490065790447
+Varenne,Métro 13,pollution moyenne,2,48.85662420264694,2.3149776470363417
+Courcelles,Métro 2,pollution moyenne,2,48.87926525411311,2.303294362425212
+Jussieu,Métro 7,pollution moyenne,2,48.84596333903808,2.354798309820857
+Réaumur - Sébastopol,Métro 3,pollution moyenne,2,48.86628268363084,2.3520239377964742
+Hôtel de Ville,Métro 1,pollution faible,1,48.85735240518587,2.3520676701391
+Porte de Clignancourt,Métro 4,pollution moyenne,2,48.897525631278015,2.344624099102791
+Place des Fêtes,Métro 7B,pollution moyenne,2,48.87693859004261,2.392959616507311
+Franklin D. Roosevelt,Métro 1,pollution faible,1,48.8691648256349,2.309359666519628
