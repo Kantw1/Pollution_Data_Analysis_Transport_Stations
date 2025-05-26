@@ -1,775 +1,775 @@
-station1,station2,connected
-Saint-Sulpice,Château d'Eau,True
-Fort d'Aubervilliers,Censier - Daubenton,True
-Havre-Caumartin,Maraîchers,True
-Porte de Clichy,Saint-Denis - Porte de Paris,True
-Nation,Charles de Gaulle - Etoile,True
-Jasmin,La Muette,True
-Pyrénées,Rambuteau,True
-Kléber,Dupleix,True
-Pyramides,Porte de la Villette,True
-Le Peletier,Crimée,True
-Saint-Georges,Volontaires,True
-Louise Michel,Anatole France,True
-Argentine,Tuileries,True
-Champs-Elysées - Clemenceau,Hôtel de Ville,True
-Trocadéro,Passy,True
-Pont Marie (Cité des Arts),Opéra,True
-Saint-Sulpice,Saint-Germain-des-Prés,True
-Chevaleret,Bel-Air,True
-Odéon,Les Halles,True
-Mirabeau,Odéon,True
-Vaneau,Cluny - La Sorbonne,True
-Gare de l'Est,Les Halles,True
-Les Halles,Odéon,True
-Mairie de Montrouge,Château Rouge,True
-Cluny - La Sorbonne,Vaneau,True
-Louis Blanc,Bolivar,True
-Alma - Marceau,Grands Boulevards,True
-Duroc,Eglise d'Auteuil,True
-Assemblée Nationale,Abbesses,True
-Château Landon,Sully - Morland,True
-La Motte-Picquet - Grenelle,Quai de la Gare,True
-Eglise de Pantin,Laumière,True
-Saint-Philippe-du-Roule,Exelmans,True
-Vavin,Réaumur - Sébastopol,True
-La Motte-Picquet - Grenelle,Porte d'Auteuil,True
-Hôtel de Ville,Belleville,True
-Asnières - Gennevilliers Les Courtilles,Les Agnettes,True
-Stalingrad,Villiers,True
-Censier - Daubenton,Chaussée d'Antin - La Fayette,True
-Hoche,Laumière,True
-Porte de Charenton,Charenton - Ecoles,True
-Gabriel Péri,Guy Môquet,True
-Balard,République,True
-Malakoff - Rue Etienne Dolet,Mairie de Saint-Ouen,True
-Michel Bizot,Liberté,True
-Mairie de Clichy,Châtillon-Montrouge,True
-Avron,Couronnes,True
-Mouton-Duvernet,Montparnasse Bienvenue,True
-Mairie d'Issy,Marx Dormoy,True
-Wagram,Europe,True
-Charles de Gaulle - Etoile,Stalingrad,True
-Villiers,La Chapelle,True
-Daumesnil,Chevaleret,True
-Esplanade de la Défense,Gare de Lyon,True
-George V,Franklin D. Roosevelt,True
-Saint-Ouen,Mairie de Saint-Ouen,True
-Charenton - Ecoles,Ecole Vétérinaire de Maisons-Alfort,True
-Boucicaut,Lourmel,True
-Grands Boulevards,Richelieu - Drouot,True
-Odéon,Mirabeau,True
-Chardon Lagache,Charles Michels,True
-Pernety,Malakoff - Rue Etienne Dolet,True
-Concorde,Bastille,True
-Saint-Augustin,Saint-Ambroise,True
-Stalingrad,Place d'Italie,True
-Chemin Vert,Bonne Nouvelle,True
-La Chapelle,Villiers,True
-Gare de l'Est,Bobigny-Pantin - Raymond Queneau,True
-Porte de la Chapelle,Porte de Versailles,True
-Pernety,Porte de Vanves,True
-Gare de l'Est,Gare du Nord,True
-Ourcq,Place d'Italie,True
-Ecole Vétérinaire de Maisons-Alfort,Maisons-Alfort - Stade,True
-Pyramides,Palais Royal - Musée du Louvre,True
-Notre-Dame des Champs,Falguière,True
-Brochant,Les Agnettes,True
-Malakoff - Rue Etienne Dolet,Pernety,True
-Madeleine,Opéra,True
-Place de Clichy,Montparnasse Bienvenue,True
-Maison Blanche,Chevilly-Larue (Marché International),True
-République,Mairie des Lilas,True
-Jussieu,Cadet,True
-Châtelet,Champs-Elysées - Clemenceau,True
-Gare d'Austerlitz,Stalingrad,True
-Cluny - La Sorbonne,Charles Michels,True
-Château d'Eau,Marcadet - Poissonniers,True
-Mairie de Saint-Ouen,Pont Cardinet,True
-Anatole France,République,True
-Eglise d'Auteuil,Javel - André Citroën,True
-Bercy,Châtelet,True
-Bréguet-Sabin,Campo-Formio,True
-Concorde,Corentin Celton,True
-Varenne,Saint-Denis - Porte de Paris,True
-Pierre et Marie Curie,Le Kremlin-Bicêtre,True
-Marcadet - Poissonniers,Saint-Lazare,True
-Place de Clichy,Champs-Elysées - Clemenceau,True
-Carrefour Pleyel,Duroc,True
-Quatre Septembre,Rue Saint-Maur,True
-Bobigny-Pantin - Raymond Queneau,Eglise de Pantin,True
-Garibaldi,Guy Môquet,True
-Edgar Quinet,Dupleix,True
-Père Lachaise,Porte Dauphine,True
-Télégraphe,Rambuteau,True
-Saint-Marcel,Bobigny Pablo Picasso,True
-Filles du Calvaire,Grands Boulevards,True
-Quai de la Rapée,Ourcq,True
-Poissonnière,Pont Marie (Cité des Arts),True
-République,Miromesnil,True
-Belleville,Porte des Lilas,True
-Nationale,Kléber,True
-Laumière,Hoche,True
-Voltaire,Ranelagh,True
-Gare d'Austerlitz,Vaneau,True
-Gare d'Austerlitz,Jussieu,True
-Franklin D. Roosevelt,La Muette,True
-Villejuif Léo Lagrange,Tolbiac,True
-Les Halles,Gare de l'Est,True
-Mabillon,Maubert - Mutualité,True
-Pont Cardinet,Mairie de Saint-Ouen,True
-Porte Maillot,Porte de Vincennes,True
-Strasbourg - Saint-Denis,Richelieu - Drouot,True
-Belleville,La Chapelle,True
-Front Populaire,Madeleine,True
-Corvisart,Denfert-Rochereau,True
-Porte de Montreuil,Porte de Saint-Cloud,True
-Simplon,Raspail,True
-Billancourt,Buzenval,True
-Maisons-Alfort - Stade,Maisons-Alfort - Les Juilliottes,True
-Place de Clichy,Ménilmontant,True
-Bourse,Louise Michel,True
-Maisons-Alfort - Les Juilliottes,Maisons-Alfort - Stade,True
-Saint-Lazare,Porte de Saint-Ouen,True
-Dugommier,Picpus,True
-Saint-Michel,Saint-Placide,True
-Mouton-Duvernet,Odéon,True
-Porte de Bagnolet,Porte de Champerret,True
-Gallieni,Pereire,True
-Saint-Lazare,République,True
-Marcadet - Poissonniers,Mairie de Montrouge,True
-Richard-Lenoir,Quai de la Rapée,True
-Chevilly-Larue (Marché International),Maison Blanche,True
-Château d'Eau,Saint-Sulpice,True
-Saint-Jacques,Trocadéro,True
-Félix Faure,Boucicaut,True
-Porte de Vincennes,Porte Maillot,True
-Alma - Marceau,Bonne Nouvelle,True
-Goncourt,Jourdain,True
-Porte de Vanves,Porte de Clichy,True
-Saint-Lazare,Rennes,True
-Corvisart,Boissière,True
-Miromesnil,Liège,True
-Palais Royal - Musée du Louvre,Porte Maillot,True
-Michel-Ange - Auteuil,Michel-Ange - Molitor,True
-Alexandre Dumas,Anvers,True
-Villiers,Stalingrad,True
-Buttes Chaumont,Place des Fêtes,True
-Porte des Lilas,Gambetta,True
-Aimé Césaire,Mairie d'Aubervilliers,True
-Châtelet,Bercy,True
-Porte Dauphine,Père Lachaise,True
-Courcelles,Alexandre Dumas,True
-Vavin,Saint-Germain-des-Prés,True
-Pont de Levallois - Bécon,Saint-Lazare,True
-Le Kremlin-Bicêtre,Villejuif - Louis Aragon,True
-Pigalle,Place de Clichy,True
-Gare du Nord,Bobigny Pablo Picasso,True
-Danube,Pré-Saint-Gervais,True
-Belleville,Hôtel de Ville,True
-Madeleine,Front Populaire,True
-Gare d'Austerlitz,Jaurès,True
-Commerce,Créteil - L'Echat,True
-Gaîté,Plaisance,True
-Maison Blanche,Mairie d'Ivry,True
-Basilique de Saint-Denis,Mairie de Clichy,True
-Carrefour Pleyel,Gabriel Péri,True
-Porte d'Orléans,Porte de Clignancourt,True
-Grands Boulevards,Filles du Calvaire,True
-Bobigny Pablo Picasso,Gare du Nord,True
-La Muette,Jasmin,True
-Esplanade de la Défense,Concorde,True
-Bourse,Villiers,True
-Montparnasse Bienvenue,Marcadet - Poissonniers,True
-Buzenval,Billancourt,True
-Saint-Michel,Etienne Marcel,True
-Charles de Gaulle - Etoile,Saint-Jacques,True
-Denfert-Rochereau,Corvisart,True
-Gare de l'Est,Villejuif Paul Vaillant-Couturier,True
-Stalingrad,Gare d'Austerlitz,True
-Daumesnil,Ecole Militaire,True
-Arts et Métiers,Goncourt,True
-Villejuif - Louis Aragon,Le Kremlin-Bicêtre,True
-Villejuif - Louis Aragon,Villejuif Paul Vaillant-Couturier,True
-Montparnasse Bienvenue,Place de Clichy,True
-Strasbourg - Saint-Denis,La Motte-Picquet - Grenelle,True
-Liège,Miromesnil,True
-Barbès - Rochechouart,Charles de Gaulle - Etoile,True
-Crimée,Corentin Cariou,True
-Faidherbe - Chaligny,Ledru-Rollin,True
-Saint-Ouen,Porte de Clichy,True
-Saint-Lazare,Pont de Levallois - Bécon,True
-Porte de la Villette,Pyramides,True
-Havre-Caumartin,Chaussée d'Antin - La Fayette,True
-Porte de Clichy,Porte de Vanves,True
-Pointe du Lac,Créteil - Préfecture,True
-Mairie de Saint-Ouen,Gaîté,True
-Rennes,Saint-Lazare,True
-Félix Faure,La Tour-Maubourg,True
-Concorde,Esplanade de la Défense,True
-Gare de Lyon,Esplanade de la Défense,True
-Colonel Fabien,Jaurès,True
-Michel Bizot,Montgallet,True
-Pont Neuf,Porte d'Italie,True
-Corentin Celton,Concorde,True
-Jules Joffrin,Notre-Dame-de-Lorette,True
-Créteil - L'Echat,Créteil - Université,True
-Chevilly-Larue (Marché International),Aéroport d'Orly,True
-Censier - Daubenton,Fort d'Aubervilliers,True
-L'Haÿ-les-Roses,Hôpital Bicêtre,True
-Louis Blanc,Danube,True
-Grands Boulevards,Buzenval,True
-Ménilmontant,Jaurès,True
-Anvers,Alexandre Dumas,True
-Guy Môquet,Garibaldi,True
-Marx Dormoy,Solférino,True
-Colonel Fabien,Courcelles,True
-Franklin D. Roosevelt,Nation,True
-Opéra,Louis Blanc,True
-Dugommier,Bir-Hakeim,True
-Liberté,Ecole Militaire,True
-Blanche,Philippe Auguste,True
-Pigalle,Porte de la Chapelle,True
-La Motte-Picquet - Grenelle,Lourmel,True
-Stalingrad,Richard-Lenoir,True
-Saint-Augustin,Trocadéro,True
-Mairie de Montreuil,Robespierre,True
-Lamarck - Caulaincourt,Mairie d'Issy,True
-Solférino,Trinité - d'Estienne d'Orves,True
-Concorde,Château de Vincennes,True
-Romainville-Carnot,Coteaux Beauclair,True
-Lourmel,Boucicaut,True
-Boulogne Jean Jaurès,Cardinal Lemoine,True
-Barbara,Saint-Placide,True
-Plaisance,Duroc,True
-Pointe du Lac,Bonne Nouvelle,True
-Porte de Saint-Cloud,Porte de Montreuil,True
-La Fourche,Liège,True
-Abbesses,Front Populaire,True
-Iéna,Oberkampf,True
-Robespierre,Croix de Chavaux,True
-Liège,La Fourche,True
-Sully - Morland,Riquet,True
-Oberkampf,Saint-Marcel,True
-Monceau,Rome,True
-Eglise d'Auteuil,Duroc,True
-Hôpital Bicêtre,Maison Blanche,True
-Nation,Trocadéro,True
-Porte d'Italie,Pont Neuf,True
-Richelieu - Drouot,Opéra,True
-Pigalle,Sèvres - Babylone,True
-Pelleport,Saint-Fargeau,True
-Madeleine,Pyramides,True
-Porte de Vincennes,Saint-Paul (Le Marais),True
-Ecole Militaire,Liberté,True
-Saint-Mandé,Bastille,True
-Mairie d'Ivry,Maison Blanche,True
-Denfert-Rochereau,Château Rouge,True
-Chaussée d'Antin - La Fayette,Censier - Daubenton,True
-Quatre Septembre,Père Lachaise,True
-Pereire,Opéra,True
-Châtelet,Pyrénées,True
-Parmentier,Arts et Métiers,True
-Montparnasse Bienvenue,Mouton-Duvernet,True
-Cardinal Lemoine,Boulogne Jean Jaurès,True
-Pierre et Marie Curie,La Courneuve - 8 Mai 1945,True
-Raspail,Barbès - Rochechouart,True
-Jacques Bonsergent,Bastille,True
-Notre-Dame des Champs,Volontaires,True
-Jaurès,Place des Fêtes,True
-Michel-Ange - Molitor,Porte de Saint-Cloud,True
-Boucicaut,Félix Faure,True
-Coteaux Beauclair,Serge Gainsbourg,True
-Bolivar,Louis Blanc,True
-Bir-Hakeim,Place d'Italie,True
-Porte de la Villette,Riquet,True
-Télégraphe,Jourdain,True
-Saint-Placide,Barbara,True
-Marcadet - Poissonniers,Montparnasse Bienvenue,True
-Place d'Italie,Bréguet-Sabin,True
-Porte de la Chapelle,Pigalle,True
-Porte de Bagnolet,Temple,True
-Mabillon,Javel - André Citroën,True
-Charonne,Mairie de Montreuil,True
-Strasbourg - Saint-Denis,Nation,True
-Saint-Denis - Pleyel,Porte de Clichy,True
-La Tour-Maubourg,Félix Faure,True
-Saint-Lazare,Madeleine,True
-République,Anatole France,True
-Arts et Métiers,Havre-Caumartin,True
-Château de Vincennes,Concorde,True
-République,Hôtel de Ville,True
-Réaumur - Sébastopol,Gallieni,True
-Opéra,Porte de Champerret,True
-Saint-Denis - Université,Garibaldi,True
-Porte de Champerret,Porte de Bagnolet,True
-Maison Blanche,Pont Neuf,True
-Philippe Auguste,Blanche,True
-Cour Saint-Emilion,Pont Cardinet,True
-Assemblée Nationale,Lamarck - Caulaincourt,True
-Jasmin,Iéna,True
-Vaneau,Gare d'Austerlitz,True
-Malakoff - Plateau de Vanves,Asnières - Gennevilliers Les Courtilles,True
-Reuilly - Diderot,Strasbourg - Saint-Denis,True
-Tuileries,Saint-Mandé,True
-Mairie des Lilas,Arts et Métiers,True
-Château Rouge,Denfert-Rochereau,True
-Charles Michels,Cluny - La Sorbonne,True
-Chaussée d'Antin - La Fayette,Havre-Caumartin,True
-Saint-Ambroise,Saint-Augustin,True
-Avenue Emile Zola,Boulogne Pont de Saint-Cloud,True
-Porte de Clignancourt,Porte d'Orléans,True
-Saint-Germain-des-Prés,Saint-Sulpice,True
-Maisons-Alfort - Stade,Ecole Vétérinaire de Maisons-Alfort,True
-Quai de la Gare,Raspail,True
-Passy,Trocadéro,True
-La Défense (Grande Arche),Pont de Neuilly,True
-Jourdain,Goncourt,True
-Pont de Levallois - Bécon,Sentier,True
-Solférino,Marx Dormoy,True
-Porte d'Auteuil,Ségur,True
-Iéna,Jasmin,True
-Montparnasse Bienvenue,Notre-Dame-de-Lorette,True
-Picpus,Denfert-Rochereau,True
-Réaumur - Sébastopol,Wagram,True
-Lamarck - Caulaincourt,Assemblée Nationale,True
-La Dhuys,Montreuil - Hôpital,True
-Porte de Saint-Cloud,Michel-Ange - Molitor,True
-Saint-Lazare,Olympiades,True
-Rue Saint-Maur,Quatre Septembre,True
-Saint-Marcel,Oberkampf,True
-Gabriel Péri,Carrefour Pleyel,True
-Bagneux - Lucie Aubrac,Barbara,True
-Abbesses,Assemblée Nationale,True
-Corentin Cariou,Crimée,True
-Créteil - L'Echat,Commerce,True
-Mairie d'Ivry,Les Gobelins,True
-Mairie des Lilas,République,True
-Cour Saint-Emilion,Châtelet,True
-Louvre - Rivoli,Reuilly - Diderot,True
-Raspail,Quai de la Gare,True
-Belleville,Couronnes,True
-Saint-Fargeau,Pelleport,True
-Invalides,Saint-François-Xavier,True
-Saint-François-Xavier,Invalides,True
-Stalingrad,Charles de Gaulle - Etoile,True
-Malakoff - Plateau de Vanves,Châtillon-Montrouge,True
-Porte d'Auteuil,La Motte-Picquet - Grenelle,True
-Madeleine,Saint-Lazare,True
-Anatole France,Louise Michel,True
-Porte Dauphine,Victor Hugo,True
-Ledru-Rollin,Saint-Sébastien - Froissart,True
-Gare de Lyon,Les Sablons,True
-Gare du Nord,Gare de l'Est,True
-Boulogne Pont de Saint-Cloud,Boulogne Jean Jaurès,True
-Bibliothèque François Mitterrand,Gare de Lyon,True
-Porte de Versailles,Rue du Bac,True
-Les Agnettes,Brochant,True
-Javel - André Citroën,Mabillon,True
-Pont Cardinet,Cour Saint-Emilion,True
-Duroc,Michel-Ange - Auteuil,True
-Pont Marie (Cité des Arts),Poissonnière,True
-Rue des Boulets,Marcel Sembat,True
-Madeleine,Jules Joffrin,True
-Jaurès,Colonel Fabien,True
-Montparnasse Bienvenue,Bercy,True
-La Défense (Grande Arche),Charles de Gaulle - Etoile,True
-Ménilmontant,Place de Clichy,True
-Cadet,Jussieu,True
-Père Lachaise,Pigalle,True
-Rennes,Convention,True
-Hôtel de Ville,Pont de Neuilly,True
-Simplon,Strasbourg - Saint-Denis,True
-Pré-Saint-Gervais,Buttes Chaumont,True
-Cité,Gare du Nord,True
-Porte de Choisy,Porte d'Ivry,True
-Volontaires,Saint-Georges,True
-Jules Joffrin,Madeleine,True
-Saint-Denis - Pleyel,Thiais - Orly (Pont de Rungis),True
-Brochant,La Fourche,True
-Place Monge,Châtelet,True
-Châtelet,Cour Saint-Emilion,True
-Louis Blanc,Opéra,True
-George V,Châtelet,True
-Bercy,Montparnasse Bienvenue,True
-Jacques Bonsergent,Gare de l'Est,True
-Les Gobelins,Mairie d'Ivry,True
-Arts et Métiers,Parmentier,True
-Botzaris,Bolivar,True
-Aubervilliers-Pantin Quatre Chemins,Porte de Choisy,True
-Notre-Dame-de-Lorette,Jules Joffrin,True
-Bel-Air,Boissière,True
-Charonne,Franklin D. Roosevelt,True
-Vaugirard,Trinité - d'Estienne d'Orves,True
-Bercy,Bibliothèque François Mitterrand,True
-Créteil - Préfecture,Pointe du Lac,True
-Odéon,Sèvres - Babylone,True
-Havre-Caumartin,Arts et Métiers,True
-Croix de Chavaux,Rue des Boulets,True
-La Courneuve - 8 Mai 1945,Pierre et Marie Curie,True
-Garibaldi,Saint-Denis - Université,True
-Philippe Auguste,Monceau,True
-Richelieu - Drouot,Strasbourg - Saint-Denis,True
-Pont de Neuilly,La Défense (Grande Arche),True
-Cambronne,Bercy,True
-Le Kremlin-Bicêtre,Pierre et Marie Curie,True
-Concorde,Falguière,True
-Volontaires,Notre-Dame des Champs,True
-Nation,Franklin D. Roosevelt,True
-Michel-Ange - Auteuil,Duroc,True
-Sentier,Gambetta,True
-Châtelet,Place des Fêtes,True
-Croix de Chavaux,Robespierre,True
-Fort d'Aubervilliers,La Courneuve - 8 Mai 1945,True
-La Courneuve - 8 Mai 1945,Fort d'Aubervilliers,True
-Mirabeau,Chardon Lagache,True
-Richard-Lenoir,Stalingrad,True
-Richelieu - Drouot,Oberkampf,True
-Mairie de Montreuil,Charonne,True
-Filles du Calvaire,Saint-Sébastien - Froissart,True
-Convention,Pasteur,True
-Montparnasse Bienvenue,Invalides,True
-Mairie de Saint-Ouen,Saint-Ouen,True
-Buzenval,Grands Boulevards,True
-Pont de Sèvres,Maraîchers,True
-Porte de Clignancourt,Réaumur - Sébastopol,True
-Raspail,Simplon,True
-Faidherbe - Chaligny,Porte Dorée,True
-Châtillon-Montrouge,Mairie de Clichy,True
-Bel-Air,Chevaleret,True
-Villiers,Rue Saint-Maur,True
-Oberkampf,Hoche,True
-Europe,Malesherbes,True
-Porte d'Ivry,Porte de Choisy,True
-Charles de Gaulle - Etoile,La Défense (Grande Arche),True
-Montgallet,Michel Bizot,True
-Tolbiac,Villejuif Léo Lagrange,True
-Gambetta,Malesherbes,True
-Liberté,Michel Bizot,True
-Rome,Monceau,True
-Bastille,Saint-Mandé,True
-Wagram,Réaumur - Sébastopol,True
-Barbès - Rochechouart,Raspail,True
-Les Agnettes,Asnières - Gennevilliers Les Courtilles,True
-Javel - André Citroën,Eglise d'Auteuil,True
-Etienne Marcel,Saint-Michel,True
-Guy Môquet,Gabriel Péri,True
-Place Monge,Château Landon,True
-Reuilly - Diderot,Bastille,True
-Montreuil - Hôpital,La Dhuys,True
-Barbara,Bagneux - Lucie Aubrac,True
-Porte de Clichy,Saint-Ouen,True
-Sully - Morland,Château Landon,True
-Bastille,Jacques Bonsergent,True
-Pasteur,Corentin Celton,True
-Place d'Italie,Bir-Hakeim,True
-Jussieu,Aubervilliers-Pantin Quatre Chemins,True
-La Tour-Maubourg,Invalides,True
-Marcadet - Poissonniers,Château d'Eau,True
-Dupleix,Kléber,True
-Louis Blanc,Chaussée d'Antin - La Fayette,True
-La Dhuys,Rosny-Bois-Perrier,True
-Charles de Gaulle - Etoile,Nation,True
-Jaurès,Gare d'Austerlitz,True
-Gare du Nord,Cité,True
-Gambetta,Porte des Lilas,True
-Oberkampf,Iéna,True
-Avron,Anvers,True
-Pont de Neuilly,Hôtel de Ville,True
-Saint-Placide,Saint-Michel,True
-Eglise de Pantin,Bobigny-Pantin - Raymond Queneau,True
-Mairie de Clichy,Basilique de Saint-Denis,True
-Bonne Nouvelle,Chaussée d'Antin - La Fayette,True
-Châtillon-Montrouge,Malakoff - Plateau de Vanves,True
-Duroc,Carrefour Pleyel,True
-Villiers,Bourse,True
-Edgar Quinet,Glacière,True
-Europe,Wagram,True
-Exelmans,Miromesnil,True
-Place des Fêtes,Jaurès,True
-Chardon Lagache,Mirabeau,True
-Picpus,Dugommier,True
-Glacière,Cambronne,True
-Bastille,Campo-Formio,True
-Alexandre Dumas,Courcelles,True
-Gare de Lyon,Bibliothèque François Mitterrand,True
-Ternes,Nation,True
-Maison Blanche,Hôpital Bicêtre,True
-Rue de la Pompe,Saint-Ambroise,True
-Nation,Strasbourg - Saint-Denis,True
-Nation,Palais Royal - Musée du Louvre,True
-Blanche,Barbès - Rochechouart,True
-Saint-Sébastien - Froissart,Ledru-Rollin,True
-Kléber,Nationale,True
-Château de Vincennes,Bérault,True
-Bobigny-Pantin - Raymond Queneau,Gare de l'Est,True
-Hôtel de Ville,Champs-Elysées - Clemenceau,True
-Bolivar,Botzaris,True
-République,Maisons-Alfort - Les Juilliottes,True
-Miromesnil,Exelmans,True
-Invalides,La Tour-Maubourg,True
-Denfert-Rochereau,Picpus,True
-Saint-Paul (Le Marais),Porte de Vincennes,True
-Nation,Ternes,True
-Campo-Formio,Bréguet-Sabin,True
-Sentier,Pont de Levallois - Bécon,True
-Nationale,Pasteur,True
-Jussieu,Avenue Emile Zola,True
-Châtelet,George V,True
-Porte des Lilas,Serge Gainsbourg,True
-Falguière,Concorde,True
-Richelieu - Drouot,Grands Boulevards,True
-Danube,Louis Blanc,True
-Duroc,Plaisance,True
-Ledru-Rollin,Faidherbe - Chaligny,True
-Gare de Lyon,Olympiades,True
-Couronnes,Avron,True
-Hoche,Oberkampf,True
-Palais Royal - Musée du Louvre,Nation,True
-Père Lachaise,Quatre Septembre,True
-Saint-Mandé,Tuileries,True
-Daumesnil,Créteil - Université,True
-Ranelagh,Porte de Montreuil,True
-Bobigny Pablo Picasso,Saint-Marcel,True
-Les Gobelins,Le Peletier,True
-Cardinal Lemoine,La Motte-Picquet - Grenelle,True
-Pyrénées,Châtelet,True
-Maraîchers,Havre-Caumartin,True
-Porte de Champerret,Opéra,True
-Saint-Denis - Université,Basilique de Saint-Denis,True
-Place d'Italie,Stalingrad,True
-Cambronne,Glacière,True
-Malesherbes,Gambetta,True
-Villejuif Paul Vaillant-Couturier,Villejuif - Louis Aragon,True
-La Fourche,Brochant,True
-Gambetta,Pelleport,True
-Etienne Marcel,Alésia,True
-Rue des Boulets,Croix de Chavaux,True
-Réaumur - Sébastopol,Porte de Clignancourt,True
-Maubert - Mutualité,Sèvres - Babylone,True
-Franklin D. Roosevelt,Charonne,True
-Front Populaire,Abbesses,True
-Charenton - Ecoles,Porte de Charenton,True
-Saint-François-Xavier,Saint-Lazare,True
-Anvers,Avron,True
-La Motte-Picquet - Grenelle,Daumesnil,True
-Sèvres - Babylone,Pigalle,True
-Denfert-Rochereau,Cité,True
-Pasteur,Passy,True
-Bibliothèque François Mitterrand,Bercy,True
-Robespierre,Mairie de Montreuil,True
-Gare de l'Est,Stalingrad,True
-Boissière,Bel-Air,True
-Parmentier,Père Lachaise,True
-Château Rouge,Mairie de Montrouge,True
-Place d'Italie,Porte d'Ivry,True
-Porte d'Italie,Tolbiac,True
-Châtelet,Barbès - Rochechouart,True
-République,Balard,True
-Pont Neuf,Maison Blanche,True
-Barbès - Rochechouart,Blanche,True
-Charles Michels,Chardon Lagache,True
-Saint-Sébastien - Froissart,Filles du Calvaire,True
-Temple,Porte de Bagnolet,True
-Ourcq,Quai de la Rapée,True
-Bastille,Reuilly - Diderot,True
-Réaumur - Sébastopol,Vavin,True
-Invalides,Madeleine,True
-Gaîté,Mairie de Saint-Ouen,True
-La Muette,Franklin D. Roosevelt,True
-Riquet,Porte de la Villette,True
-Porte de Vanves,Pernety,True
-Notre-Dame-de-Lorette,Montparnasse Bienvenue,True
-Aubervilliers-Pantin Quatre Chemins,Jussieu,True
-Mairie d'Aubervilliers,Aimé Césaire,True
-Hôtel de Ville,République,True
-Porte de Montreuil,Ranelagh,True
-Jussieu,Gare d'Austerlitz,True
-Rue du Bac,Porte de Versailles,True
-Marcel Sembat,Saint-Philippe-du-Roule,True
-Porte d'Ivry,Place d'Italie,True
-Exelmans,Saint-Philippe-du-Roule,True
-Invalides,Montparnasse Bienvenue,True
-Porte de Versailles,Porte de la Chapelle,True
-Olympiades,Gare de Lyon,True
-Pont de Sèvres,Michel-Ange - Auteuil,True
-Lourmel,La Motte-Picquet - Grenelle,True
-Champs-Elysées - Clemenceau,Place de Clichy,True
-Daumesnil,La Motte-Picquet - Grenelle,True
-Poissonnière,Palais Royal - Musée du Louvre,True
-Opéra,Pont Marie (Cité des Arts),True
-Ranelagh,Voltaire,True
-Hôpital Bicêtre,L'Haÿ-les-Roses,True
-Rambuteau,Télégraphe,True
-Trinité - d'Estienne d'Orves,Solférino,True
-Pigalle,Père Lachaise,True
-Asnières - Gennevilliers Les Courtilles,Malakoff - Plateau de Vanves,True
-Opéra,Madeleine,True
-Courcelles,Colonel Fabien,True
-Cité,Denfert-Rochereau,True
-Quai de la Gare,La Motte-Picquet - Grenelle,True
-Stalingrad,Gare de l'Est,True
-Chaussée d'Antin - La Fayette,Louis Blanc,True
-Cadet,Corentin Cariou,True
-Pasteur,Convention,True
-Glacière,Edgar Quinet,True
-Louvre - Rivoli,Les Sablons,True
-Alésia,Etienne Marcel,True
-Balard,Créteil - Préfecture,True
-Porte de Clichy,Saint-Denis - Pleyel,True
-Reuilly - Diderot,Louvre - Rivoli,True
-Arts et Métiers,Mairie des Lilas,True
-Sèvres-Lecourbe,Raspail,True
-Champs-Elysées - Clemenceau,Châtelet,True
-Porte de Charenton,Porte Dorée,True
-La Motte-Picquet - Grenelle,Cardinal Lemoine,True
-Pelleport,Gambetta,True
-Tolbiac,Porte d'Italie,True
-Saint-Lazare,Saint-François-Xavier,True
-Aimé Césaire,Vaugirard,True
-Strasbourg - Saint-Denis,Reuilly - Diderot,True
-Saint-Germain-des-Prés,Vavin,True
-Porte Maillot,Palais Royal - Musée du Louvre,True
-Franklin D. Roosevelt,George V,True
-Buttes Chaumont,Pré-Saint-Gervais,True
-Goncourt,Arts et Métiers,True
-Montreuil - Hôpital,Romainville-Carnot,True
-Rue du Bac,Saint-Georges,True
-Saint-Denis - Porte de Paris,Porte de Clichy,True
-Bérault,Argentine,True
-Pyramides,Madeleine,True
-Boissière,Corvisart,True
-Porte Dorée,Porte de Charenton,True
-Place des Fêtes,Buttes Chaumont,True
-Serge Gainsbourg,Coteaux Beauclair,True
-Porte de Saint-Ouen,Saint-Lazare,True
-Strasbourg - Saint-Denis,Simplon,True
-Porte de Pantin,Gare du Nord,True
-Mairie d'Issy,Lamarck - Caulaincourt,True
-Pré-Saint-Gervais,Danube,True
-Sèvres - Babylone,Maubert - Mutualité,True
-Palais Royal - Musée du Louvre,Poissonnière,True
-Rambuteau,Pyrénées,True
-Marx Dormoy,Mairie d'Issy,True
-Odéon,Mouton-Duvernet,True
-Thiais - Orly (Pont de Rungis),Saint-Denis - Pleyel,True
-Place d'Italie,Montparnasse Bienvenue,True
-Oberkampf,Richelieu - Drouot,True
-Charles de Gaulle - Etoile,Barbès - Rochechouart,True
-Bastille,Charles de Gaulle - Etoile,True
-Trocadéro,Saint-Jacques,True
-Créteil - Université,Créteil - L'Echat,True
-Louise Michel,Bourse,True
-Opéra,Pereire,True
-Coteaux Beauclair,Romainville-Carnot,True
-Saint-Denis - Porte de Paris,Varenne,True
-Chaussée d'Antin - La Fayette,Bonne Nouvelle,True
-Bonne Nouvelle,Chemin Vert,True
-Michel-Ange - Auteuil,Pont de Sèvres,True
-Bir-Hakeim,Dugommier,True
-Château Landon,Place Monge,True
-Porte Dorée,Faidherbe - Chaligny,True
-Monceau,Philippe Auguste,True
-Victor Hugo,Porte Dauphine,True
-Gare de l'Est,Jacques Bonsergent,True
-Quai de la Rapée,Richard-Lenoir,True
-Tuileries,Argentine,True
-Corentin Cariou,Cadet,True
-Ecole Militaire,Daumesnil,True
-Saint-Jacques,Charles de Gaulle - Etoile,True
-Billancourt,République,True
-Châtelet,Place Monge,True
-Bercy,Cambronne,True
-Alésia,Porte d'Orléans,True
-Boulogne Pont de Saint-Cloud,Avenue Emile Zola,True
-Porte de Choisy,Aubervilliers-Pantin Quatre Chemins,True
-Basilique de Saint-Denis,Saint-Denis - Université,True
-Gambetta,Sentier,True
-Trocadéro,Nation,True
-Passy,Pasteur,True
-Trocadéro,Saint-Augustin,True
-Créteil - Université,Daumesnil,True
-Place des Fêtes,Châtelet,True
-Place d'Italie,Ourcq,True
-Commerce,Chemin Vert,True
-Maubert - Mutualité,Mabillon,True
-Miromesnil,Porte de Saint-Ouen,True
-Crimée,Le Peletier,True
-La Motte-Picquet - Grenelle,Strasbourg - Saint-Denis,True
-Bonne Nouvelle,Pointe du Lac,True
-Porte des Lilas,Belleville,True
-Campo-Formio,Bastille,True
-Miromesnil,République,True
-Vaugirard,Aimé Césaire,True
-Saint-Philippe-du-Roule,Marcel Sembat,True
-Dupleix,Edgar Quinet,True
-Palais Royal - Musée du Louvre,Pyramides,True
-Malesherbes,Europe,True
-Bonne Nouvelle,Alma - Marceau,True
-Mairie de Montrouge,Marcadet - Poissonniers,True
-Chemin Vert,Commerce,True
-Riquet,Sully - Morland,True
-Madeleine,Invalides,True
-Mairie de Saint-Ouen,Malakoff - Rue Etienne Dolet,True
-Gallieni,Réaumur - Sébastopol,True
-Avenue Emile Zola,Jussieu,True
-Les Sablons,Gare de Lyon,True
-Corentin Celton,Pasteur,True
-Olympiades,Saint-Lazare,True
-Gare du Nord,Porte de Pantin,True
-République,Jaurès,True
-Maraîchers,Pont de Sèvres,True
-Saint-Georges,Rue du Bac,True
-Montparnasse Bienvenue,Place d'Italie,True
-Barbès - Rochechouart,Châtelet,True
-Ternes,Victor Hugo,True
-Saint-Ambroise,Rue de la Pompe,True
-Chevaleret,Daumesnil,True
-Laumière,Eglise de Pantin,True
-Rue Saint-Maur,Villiers,True
-Rosny-Bois-Perrier,La Dhuys,True
-Bréguet-Sabin,Place d'Italie,True
-Pasteur,Nationale,True
-Boulogne Jean Jaurès,Boulogne Pont de Saint-Cloud,True
-Jourdain,Télégraphe,True
-Falguière,Notre-Dame des Champs,True
-Couronnes,Belleville,True
-Villejuif Paul Vaillant-Couturier,Gare de l'Est,True
-Michel-Ange - Molitor,Michel-Ange - Auteuil,True
-Père Lachaise,Parmentier,True
-Plaisance,Gaîté,True
-Grands Boulevards,Alma - Marceau,True
-Pereire,Gallieni,True
-Créteil - Préfecture,Balard,True
-Ecole Vétérinaire de Maisons-Alfort,Charenton - Ecoles,True
-L'Haÿ-les-Roses,Thiais - Orly (Pont de Rungis),True
-Raspail,Sèvres-Lecourbe,True
-Maisons-Alfort - Les Juilliottes,République,True
-Place de Clichy,Pigalle,True
-Montparnasse Bienvenue,Strasbourg - Saint-Denis,True
-Argentine,Bérault,True
-Trinité - d'Estienne d'Orves,Vaugirard,True
-Romainville-Carnot,Montreuil - Hôpital,True
-Saint-Lazare,Marcadet - Poissonniers,True
-Les Sablons,Louvre - Rivoli,True
-Charles de Gaulle - Etoile,Bastille,True
-Convention,Rennes,True
-Thiais - Orly (Pont de Rungis),L'Haÿ-les-Roses,True
-Aéroport d'Orly,Chevilly-Larue (Marché International),True
-Strasbourg - Saint-Denis,Montparnasse Bienvenue,True
-Jaurès,Ménilmontant,True
-République,Billancourt,True
-Porte de Saint-Ouen,Miromesnil,True
-Le Peletier,Les Gobelins,True
-Victor Hugo,Ternes,True
-Marcel Sembat,Rue des Boulets,True
-La Chapelle,Belleville,True
-Bérault,Château de Vincennes,True
-Sèvres - Babylone,Odéon,True
-Bastille,Concorde,True
-Opéra,Richelieu - Drouot,True
-Serge Gainsbourg,Porte des Lilas,True
-République,Saint-Lazare,True
-Porte d'Orléans,Alésia,True
-Jaurès,République,True
-Ségur,Porte d'Auteuil,True
+station1                               , station2                               , connected
+Saint-Sulpice                          , Château d'Eau                          , True
+Fort d'Aubervilliers                   , Censier - Daubenton                    , True
+Havre-Caumartin                        , Maraîchers                             , True
+Porte de Clichy                        , Saint-Denis - Porte de Paris           , True
+Nation                                 , Charles de Gaulle - Etoile             , True
+Jasmin                                 , La Muette                              , True
+Pyrénées                               , Rambuteau                              , True
+Kléber                                 , Dupleix                                , True
+Pyramides                              , Porte de la Villette                   , True
+Le Peletier                            , Crimée                                 , True
+Saint-Georges                          , Volontaires                            , True
+Louise Michel                          , Anatole France                         , True
+Argentine                              , Tuileries                              , True
+Champs-Elysées - Clemenceau            , Hôtel de Ville                         , True
+Trocadéro                              , Passy                                  , True
+Pont Marie (Cité des Arts)             , Opéra                                  , True
+Saint-Sulpice                          , Saint-Germain-des-Prés                 , True
+Chevaleret                             , Bel-Air                                , True
+Odéon                                  , Les Halles                             , True
+Mirabeau                               , Odéon                                  , True
+Vaneau                                 , Cluny - La Sorbonne                    , True
+Gare de l'Est                          , Les Halles                             , True
+Les Halles                             , Odéon                                  , True
+Mairie de Montrouge                    , Château Rouge                          , True
+Cluny - La Sorbonne                    , Vaneau                                 , True
+Louis Blanc                            , Bolivar                                , True
+Alma - Marceau                         , Grands Boulevards                      , True
+Duroc                                  , Eglise d'Auteuil                       , True
+Assemblée Nationale                    , Abbesses                               , True
+Château Landon                         , Sully - Morland                        , True
+La Motte-Picquet - Grenelle            , Quai de la Gare                        , True
+Eglise de Pantin                       , Laumière                               , True
+Saint-Philippe-du-Roule                , Exelmans                               , True
+Vavin                                  , Réaumur - Sébastopol                   , True
+La Motte-Picquet - Grenelle            , Porte d'Auteuil                        , True
+Hôtel de Ville                         , Belleville                             , True
+Asnières - Gennevilliers Les Courtilles, Les Agnettes                           , True
+Stalingrad                             , Villiers                               , True
+Censier - Daubenton                    , Chaussée d'Antin - La Fayette          , True
+Hoche                                  , Laumière                               , True
+Porte de Charenton                     , Charenton - Ecoles                     , True
+Gabriel Péri                           , Guy Môquet                             , True
+Balard                                 , République                             , True
+Malakoff - Rue Etienne Dolet           , Mairie de Saint-Ouen                   , True
+Michel Bizot                           , Liberté                                , True
+Mairie de Clichy                       , Châtillon-Montrouge                    , True
+Avron                                  , Couronnes                              , True
+Mouton-Duvernet                        , Montparnasse Bienvenue                 , True
+Mairie d'Issy                          , Marx Dormoy                            , True
+Wagram                                 , Europe                                 , True
+Charles de Gaulle - Etoile             , Stalingrad                             , True
+Villiers                               , La Chapelle                            , True
+Daumesnil                              , Chevaleret                             , True
+Esplanade de la Défense                , Gare de Lyon                           , True
+George V                               , Franklin D. Roosevelt                  , True
+Saint-Ouen                             , Mairie de Saint-Ouen                   , True
+Charenton - Ecoles                     , Ecole Vétérinaire de Maisons-Alfort    , True
+Boucicaut                              , Lourmel                                , True
+Grands Boulevards                      , Richelieu - Drouot                     , True
+Odéon                                  , Mirabeau                               , True
+Chardon Lagache                        , Charles Michels                        , True
+Pernety                                , Malakoff - Rue Etienne Dolet           , True
+Concorde                               , Bastille                               , True
+Saint-Augustin                         , Saint-Ambroise                         , True
+Stalingrad                             , Place d'Italie                         , True
+Chemin Vert                            , Bonne Nouvelle                         , True
+La Chapelle                            , Villiers                               , True
+Gare de l'Est                          , Bobigny-Pantin - Raymond Queneau       , True
+Porte de la Chapelle                   , Porte de Versailles                    , True
+Pernety                                , Porte de Vanves                        , True
+Gare de l'Est                          , Gare du Nord                           , True
+Ourcq                                  , Place d'Italie                         , True
+Ecole Vétérinaire de Maisons-Alfort    , Maisons-Alfort - Stade                 , True
+Pyramides                              , Palais Royal - Musée du Louvre         , True
+Notre-Dame des Champs                  , Falguière                              , True
+Brochant                               , Les Agnettes                           , True
+Malakoff - Rue Etienne Dolet           , Pernety                                , True
+Madeleine                              , Opéra                                  , True
+Place de Clichy                        , Montparnasse Bienvenue                 , True
+Maison Blanche                         , Chevilly-Larue (Marché International)  , True
+République                             , Mairie des Lilas                       , True
+Jussieu                                , Cadet                                  , True
+Châtelet                               , Champs-Elysées - Clemenceau            , True
+Gare d'Austerlitz                      , Stalingrad                             , True
+Cluny - La Sorbonne                    , Charles Michels                        , True
+Château d'Eau                          , Marcadet - Poissonniers                , True
+Mairie de Saint-Ouen                   , Pont Cardinet                          , True
+Anatole France                         , République                             , True
+Eglise d'Auteuil                       , Javel - André Citroën                  , True
+Bercy                                  , Châtelet                               , True
+Bréguet-Sabin                          , Campo-Formio                           , True
+Concorde                               , Corentin Celton                        , True
+Varenne                                , Saint-Denis - Porte de Paris           , True
+Pierre et Marie Curie                  , Le Kremlin-Bicêtre                     , True
+Marcadet - Poissonniers                , Saint-Lazare                           , True
+Place de Clichy                        , Champs-Elysées - Clemenceau            , True
+Carrefour Pleyel                       , Duroc                                  , True
+Quatre Septembre                       , Rue Saint-Maur                         , True
+Bobigny-Pantin - Raymond Queneau       , Eglise de Pantin                       , True
+Garibaldi                              , Guy Môquet                             , True
+Edgar Quinet                           , Dupleix                                , True
+Père Lachaise                          , Porte Dauphine                         , True
+Télégraphe                             , Rambuteau                              , True
+Saint-Marcel                           , Bobigny Pablo Picasso                  , True
+Filles du Calvaire                     , Grands Boulevards                      , True
+Quai de la Rapée                       , Ourcq                                  , True
+Poissonnière                           , Pont Marie (Cité des Arts)             , True
+République                             , Miromesnil                             , True
+Belleville                             , Porte des Lilas                        , True
+Nationale                              , Kléber                                 , True
+Laumière                               , Hoche                                  , True
+Voltaire                               , Ranelagh                               , True
+Gare d'Austerlitz                      , Vaneau                                 , True
+Gare d'Austerlitz                      , Jussieu                                , True
+Franklin D. Roosevelt                  , La Muette                              , True
+Villejuif Léo Lagrange                 , Tolbiac                                , True
+Les Halles                             , Gare de l'Est                          , True
+Mabillon                               , Maubert - Mutualité                    , True
+Pont Cardinet                          , Mairie de Saint-Ouen                   , True
+Porte Maillot                          , Porte de Vincennes                     , True
+Strasbourg - Saint-Denis               , Richelieu - Drouot                     , True
+Belleville                             , La Chapelle                            , True
+Front Populaire                        , Madeleine                              , True
+Corvisart                              , Denfert-Rochereau                      , True
+Porte de Montreuil                     , Porte de Saint-Cloud                   , True
+Simplon                                , Raspail                                , True
+Billancourt                            , Buzenval                               , True
+Maisons-Alfort - Stade                 , Maisons-Alfort - Les Juilliottes       , True
+Place de Clichy                        , Ménilmontant                           , True
+Bourse                                 , Louise Michel                          , True
+Maisons-Alfort - Les Juilliottes       , Maisons-Alfort - Stade                 , True
+Saint-Lazare                           , Porte de Saint-Ouen                    , True
+Dugommier                              , Picpus                                 , True
+Saint-Michel                           , Saint-Placide                          , True
+Mouton-Duvernet                        , Odéon                                  , True
+Porte de Bagnolet                      , Porte de Champerret                    , True
+Gallieni                               , Pereire                                , True
+Saint-Lazare                           , République                             , True
+Marcadet - Poissonniers                , Mairie de Montrouge                    , True
+Richard-Lenoir                         , Quai de la Rapée                       , True
+Chevilly-Larue (Marché International)  , Maison Blanche                         , True
+Château d'Eau                          , Saint-Sulpice                          , True
+Saint-Jacques                          , Trocadéro                              , True
+Félix Faure                            , Boucicaut                              , True
+Porte de Vincennes                     , Porte Maillot                          , True
+Alma - Marceau                         , Bonne Nouvelle                         , True
+Goncourt                               , Jourdain                               , True
+Porte de Vanves                        , Porte de Clichy                        , True
+Saint-Lazare                           , Rennes                                 , True
+Corvisart                              , Boissière                              , True
+Miromesnil                             , Liège                                  , True
+Palais Royal - Musée du Louvre         , Porte Maillot                          , True
+Michel-Ange - Auteuil                  , Michel-Ange - Molitor                  , True
+Alexandre Dumas                        , Anvers                                 , True
+Villiers                               , Stalingrad                             , True
+Buttes Chaumont                        , Place des Fêtes                        , True
+Porte des Lilas                        , Gambetta                               , True
+Aimé Césaire                           , Mairie d'Aubervilliers                 , True
+Châtelet                               , Bercy                                  , True
+Porte Dauphine                         , Père Lachaise                          , True
+Courcelles                             , Alexandre Dumas                        , True
+Vavin                                  , Saint-Germain-des-Prés                 , True
+Pont de Levallois - Bécon              , Saint-Lazare                           , True
+Le Kremlin-Bicêtre                     , Villejuif - Louis Aragon               , True
+Pigalle                                , Place de Clichy                        , True
+Gare du Nord                           , Bobigny Pablo Picasso                  , True
+Danube                                 , Pré-Saint-Gervais                      , True
+Belleville                             , Hôtel de Ville                         , True
+Madeleine                              , Front Populaire                        , True
+Gare d'Austerlitz                      , Jaurès                                 , True
+Commerce                               , Créteil - L'Echat                      , True
+Gaîté                                  , Plaisance                              , True
+Maison Blanche                         , Mairie d'Ivry                          , True
+Basilique de Saint-Denis               , Mairie de Clichy                       , True
+Carrefour Pleyel                       , Gabriel Péri                           , True
+Porte d'Orléans                        , Porte de Clignancourt                  , True
+Grands Boulevards                      , Filles du Calvaire                     , True
+Bobigny Pablo Picasso                  , Gare du Nord                           , True
+La Muette                              , Jasmin                                 , True
+Esplanade de la Défense                , Concorde                               , True
+Bourse                                 , Villiers                               , True
+Montparnasse Bienvenue                 , Marcadet - Poissonniers                , True
+Buzenval                               , Billancourt                            , True
+Saint-Michel                           , Etienne Marcel                         , True
+Charles de Gaulle - Etoile             , Saint-Jacques                          , True
+Denfert-Rochereau                      , Corvisart                              , True
+Gare de l'Est                          , Villejuif Paul Vaillant-Couturier      , True
+Stalingrad                             , Gare d'Austerlitz                      , True
+Daumesnil                              , Ecole Militaire                        , True
+Arts et Métiers                        , Goncourt                               , True
+Villejuif - Louis Aragon               , Le Kremlin-Bicêtre                     , True
+Villejuif - Louis Aragon               , Villejuif Paul Vaillant-Couturier      , True
+Montparnasse Bienvenue                 , Place de Clichy                        , True
+Strasbourg - Saint-Denis               , La Motte-Picquet - Grenelle            , True
+Liège                                  , Miromesnil                             , True
+Barbès - Rochechouart                  , Charles de Gaulle - Etoile             , True
+Crimée                                 , Corentin Cariou                        , True
+Faidherbe - Chaligny                   , Ledru-Rollin                           , True
+Saint-Ouen                             , Porte de Clichy                        , True
+Saint-Lazare                           , Pont de Levallois - Bécon              , True
+Porte de la Villette                   , Pyramides                              , True
+Havre-Caumartin                        , Chaussée d'Antin - La Fayette          , True
+Porte de Clichy                        , Porte de Vanves                        , True
+Pointe du Lac                          , Créteil - Préfecture                   , True
+Mairie de Saint-Ouen                   , Gaîté                                  , True
+Rennes                                 , Saint-Lazare                           , True
+Félix Faure                            , La Tour-Maubourg                       , True
+Concorde                               , Esplanade de la Défense                , True
+Gare de Lyon                           , Esplanade de la Défense                , True
+Colonel Fabien                         , Jaurès                                 , True
+Michel Bizot                           , Montgallet                             , True
+Pont Neuf                              , Porte d'Italie                         , True
+Corentin Celton                        , Concorde                               , True
+Jules Joffrin                          , Notre-Dame-de-Lorette                  , True
+Créteil - L'Echat                      , Créteil - Université                   , True
+Chevilly-Larue (Marché International)  , Aéroport d'Orly                        , True
+Censier - Daubenton                    , Fort d'Aubervilliers                   , True
+L'Haÿ-les-Roses                        , Hôpital Bicêtre                        , True
+Louis Blanc                            , Danube                                 , True
+Grands Boulevards                      , Buzenval                               , True
+Ménilmontant                           , Jaurès                                 , True
+Anvers                                 , Alexandre Dumas                        , True
+Guy Môquet                             , Garibaldi                              , True
+Marx Dormoy                            , Solférino                              , True
+Colonel Fabien                         , Courcelles                             , True
+Franklin D. Roosevelt                  , Nation                                 , True
+Opéra                                  , Louis Blanc                            , True
+Dugommier                              , Bir-Hakeim                             , True
+Liberté                                , Ecole Militaire                        , True
+Blanche                                , Philippe Auguste                       , True
+Pigalle                                , Porte de la Chapelle                   , True
+La Motte-Picquet - Grenelle            , Lourmel                                , True
+Stalingrad                             , Richard-Lenoir                         , True
+Saint-Augustin                         , Trocadéro                              , True
+Mairie de Montreuil                    , Robespierre                            , True
+Lamarck - Caulaincourt                 , Mairie d'Issy                          , True
+Solférino                              , Trinité - d'Estienne d'Orves           , True
+Concorde                               , Château de Vincennes                   , True
+Romainville-Carnot                     , Coteaux Beauclair                      , True
+Lourmel                                , Boucicaut                              , True
+Boulogne Jean Jaurès                   , Cardinal Lemoine                       , True
+Barbara                                , Saint-Placide                          , True
+Plaisance                              , Duroc                                  , True
+Pointe du Lac                          , Bonne Nouvelle                         , True
+Porte de Saint-Cloud                   , Porte de Montreuil                     , True
+La Fourche                             , Liège                                  , True
+Abbesses                               , Front Populaire                        , True
+Iéna                                   , Oberkampf                              , True
+Robespierre                            , Croix de Chavaux                       , True
+Liège                                  , La Fourche                             , True
+Sully - Morland                        , Riquet                                 , True
+Oberkampf                              , Saint-Marcel                           , True
+Monceau                                , Rome                                   , True
+Eglise d'Auteuil                       , Duroc                                  , True
+Hôpital Bicêtre                        , Maison Blanche                         , True
+Nation                                 , Trocadéro                              , True
+Porte d'Italie                         , Pont Neuf                              , True
+Richelieu - Drouot                     , Opéra                                  , True
+Pigalle                                , Sèvres - Babylone                      , True
+Pelleport                              , Saint-Fargeau                          , True
+Madeleine                              , Pyramides                              , True
+Porte de Vincennes                     , Saint-Paul (Le Marais)                 , True
+Ecole Militaire                        , Liberté                                , True
+Saint-Mandé                            , Bastille                               , True
+Mairie d'Ivry                          , Maison Blanche                         , True
+Denfert-Rochereau                      , Château Rouge                          , True
+Chaussée d'Antin - La Fayette          , Censier - Daubenton                    , True
+Quatre Septembre                       , Père Lachaise                          , True
+Pereire                                , Opéra                                  , True
+Châtelet                               , Pyrénées                               , True
+Parmentier                             , Arts et Métiers                        , True
+Montparnasse Bienvenue                 , Mouton-Duvernet                        , True
+Cardinal Lemoine                       , Boulogne Jean Jaurès                   , True
+Pierre et Marie Curie                  , La Courneuve - 8 Mai 1945              , True
+Raspail                                , Barbès - Rochechouart                  , True
+Jacques Bonsergent                     , Bastille                               , True
+Notre-Dame des Champs                  , Volontaires                            , True
+Jaurès                                 , Place des Fêtes                        , True
+Michel-Ange - Molitor                  , Porte de Saint-Cloud                   , True
+Boucicaut                              , Félix Faure                            , True
+Coteaux Beauclair                      , Serge Gainsbourg                       , True
+Bolivar                                , Louis Blanc                            , True
+Bir-Hakeim                             , Place d'Italie                         , True
+Porte de la Villette                   , Riquet                                 , True
+Télégraphe                             , Jourdain                               , True
+Saint-Placide                          , Barbara                                , True
+Marcadet - Poissonniers                , Montparnasse Bienvenue                 , True
+Place d'Italie                         , Bréguet-Sabin                          , True
+Porte de la Chapelle                   , Pigalle                                , True
+Porte de Bagnolet                      , Temple                                 , True
+Mabillon                               , Javel - André Citroën                  , True
+Charonne                               , Mairie de Montreuil                    , True
+Strasbourg - Saint-Denis               , Nation                                 , True
+Saint-Denis - Pleyel                   , Porte de Clichy                        , True
+La Tour-Maubourg                       , Félix Faure                            , True
+Saint-Lazare                           , Madeleine                              , True
+République                             , Anatole France                         , True
+Arts et Métiers                        , Havre-Caumartin                        , True
+Château de Vincennes                   , Concorde                               , True
+République                             , Hôtel de Ville                         , True
+Réaumur - Sébastopol                   , Gallieni                               , True
+Opéra                                  , Porte de Champerret                    , True
+Saint-Denis - Université               , Garibaldi                              , True
+Porte de Champerret                    , Porte de Bagnolet                      , True
+Maison Blanche                         , Pont Neuf                              , True
+Philippe Auguste                       , Blanche                                , True
+Cour Saint-Emilion                     , Pont Cardinet                          , True
+Assemblée Nationale                    , Lamarck - Caulaincourt                 , True
+Jasmin                                 , Iéna                                   , True
+Vaneau                                 , Gare d'Austerlitz                      , True
+Malakoff - Plateau de Vanves           , Asnières - Gennevilliers Les Courtilles, True
+Reuilly - Diderot                      , Strasbourg - Saint-Denis               , True
+Tuileries                              , Saint-Mandé                            , True
+Mairie des Lilas                       , Arts et Métiers                        , True
+Château Rouge                          , Denfert-Rochereau                      , True
+Charles Michels                        , Cluny - La Sorbonne                    , True
+Chaussée d'Antin - La Fayette          , Havre-Caumartin                        , True
+Saint-Ambroise                         , Saint-Augustin                         , True
+Avenue Emile Zola                      , Boulogne Pont de Saint-Cloud           , True
+Porte de Clignancourt                  , Porte d'Orléans                        , True
+Saint-Germain-des-Prés                 , Saint-Sulpice                          , True
+Maisons-Alfort - Stade                 , Ecole Vétérinaire de Maisons-Alfort    , True
+Quai de la Gare                        , Raspail                                , True
+Passy                                  , Trocadéro                              , True
+La Défense (Grande Arche)              , Pont de Neuilly                        , True
+Jourdain                               , Goncourt                               , True
+Pont de Levallois - Bécon              , Sentier                                , True
+Solférino                              , Marx Dormoy                            , True
+Porte d'Auteuil                        , Ségur                                  , True
+Iéna                                   , Jasmin                                 , True
+Montparnasse Bienvenue                 , Notre-Dame-de-Lorette                  , True
+Picpus                                 , Denfert-Rochereau                      , True
+Réaumur - Sébastopol                   , Wagram                                 , True
+Lamarck - Caulaincourt                 , Assemblée Nationale                    , True
+La Dhuys                               , Montreuil - Hôpital                    , True
+Porte de Saint-Cloud                   , Michel-Ange - Molitor                  , True
+Saint-Lazare                           , Olympiades                             , True
+Rue Saint-Maur                         , Quatre Septembre                       , True
+Saint-Marcel                           , Oberkampf                              , True
+Gabriel Péri                           , Carrefour Pleyel                       , True
+Bagneux - Lucie Aubrac                 , Barbara                                , True
+Abbesses                               , Assemblée Nationale                    , True
+Corentin Cariou                        , Crimée                                 , True
+Créteil - L'Echat                      , Commerce                               , True
+Mairie d'Ivry                          , Les Gobelins                           , True
+Mairie des Lilas                       , République                             , True
+Cour Saint-Emilion                     , Châtelet                               , True
+Louvre - Rivoli                        , Reuilly - Diderot                      , True
+Raspail                                , Quai de la Gare                        , True
+Belleville                             , Couronnes                              , True
+Saint-Fargeau                          , Pelleport                              , True
+Invalides                              , Saint-François-Xavier                  , True
+Saint-François-Xavier                  , Invalides                              , True
+Stalingrad                             , Charles de Gaulle - Etoile             , True
+Malakoff - Plateau de Vanves           , Châtillon-Montrouge                    , True
+Porte d'Auteuil                        , La Motte-Picquet - Grenelle            , True
+Madeleine                              , Saint-Lazare                           , True
+Anatole France                         , Louise Michel                          , True
+Porte Dauphine                         , Victor Hugo                            , True
+Ledru-Rollin                           , Saint-Sébastien - Froissart            , True
+Gare de Lyon                           , Les Sablons                            , True
+Gare du Nord                           , Gare de l'Est                          , True
+Boulogne Pont de Saint-Cloud           , Boulogne Jean Jaurès                   , True
+Bibliothèque François Mitterrand       , Gare de Lyon                           , True
+Porte de Versailles                    , Rue du Bac                             , True
+Les Agnettes                           , Brochant                               , True
+Javel - André Citroën                  , Mabillon                               , True
+Pont Cardinet                          , Cour Saint-Emilion                     , True
+Duroc                                  , Michel-Ange - Auteuil                  , True
+Pont Marie (Cité des Arts)             , Poissonnière                           , True
+Rue des Boulets                        , Marcel Sembat                          , True
+Madeleine                              , Jules Joffrin                          , True
+Jaurès                                 , Colonel Fabien                         , True
+Montparnasse Bienvenue                 , Bercy                                  , True
+La Défense (Grande Arche)              , Charles de Gaulle - Etoile             , True
+Ménilmontant                           , Place de Clichy                        , True
+Cadet                                  , Jussieu                                , True
+Père Lachaise                          , Pigalle                                , True
+Rennes                                 , Convention                             , True
+Hôtel de Ville                         , Pont de Neuilly                        , True
+Simplon                                , Strasbourg - Saint-Denis               , True
+Pré-Saint-Gervais                      , Buttes Chaumont                        , True
+Cité                                   , Gare du Nord                           , True
+Porte de Choisy                        , Porte d'Ivry                           , True
+Volontaires                            , Saint-Georges                          , True
+Jules Joffrin                          , Madeleine                              , True
+Saint-Denis - Pleyel                   , Thiais - Orly (Pont de Rungis)         , True
+Brochant                               , La Fourche                             , True
+Place Monge                            , Châtelet                               , True
+Châtelet                               , Cour Saint-Emilion                     , True
+Louis Blanc                            , Opéra                                  , True
+George V                               , Châtelet                               , True
+Bercy                                  , Montparnasse Bienvenue                 , True
+Jacques Bonsergent                     , Gare de l'Est                          , True
+Les Gobelins                           , Mairie d'Ivry                          , True
+Arts et Métiers                        , Parmentier                             , True
+Botzaris                               , Bolivar                                , True
+Aubervilliers-Pantin Quatre Chemins    , Porte de Choisy                        , True
+Notre-Dame-de-Lorette                  , Jules Joffrin                          , True
+Bel-Air                                , Boissière                              , True
+Charonne                               , Franklin D. Roosevelt                  , True
+Vaugirard                              , Trinité - d'Estienne d'Orves           , True
+Bercy                                  , Bibliothèque François Mitterrand       , True
+Créteil - Préfecture                   , Pointe du Lac                          , True
+Odéon                                  , Sèvres - Babylone                      , True
+Havre-Caumartin                        , Arts et Métiers                        , True
+Croix de Chavaux                       , Rue des Boulets                        , True
+La Courneuve - 8 Mai 1945              , Pierre et Marie Curie                  , True
+Garibaldi                              , Saint-Denis - Université               , True
+Philippe Auguste                       , Monceau                                , True
+Richelieu - Drouot                     , Strasbourg - Saint-Denis               , True
+Pont de Neuilly                        , La Défense (Grande Arche)              , True
+Cambronne                              , Bercy                                  , True
+Le Kremlin-Bicêtre                     , Pierre et Marie Curie                  , True
+Concorde                               , Falguière                              , True
+Volontaires                            , Notre-Dame des Champs                  , True
+Nation                                 , Franklin D. Roosevelt                  , True
+Michel-Ange - Auteuil                  , Duroc                                  , True
+Sentier                                , Gambetta                               , True
+Châtelet                               , Place des Fêtes                        , True
+Croix de Chavaux                       , Robespierre                            , True
+Fort d'Aubervilliers                   , La Courneuve - 8 Mai 1945              , True
+La Courneuve - 8 Mai 1945              , Fort d'Aubervilliers                   , True
+Mirabeau                               , Chardon Lagache                        , True
+Richard-Lenoir                         , Stalingrad                             , True
+Richelieu - Drouot                     , Oberkampf                              , True
+Mairie de Montreuil                    , Charonne                               , True
+Filles du Calvaire                     , Saint-Sébastien - Froissart            , True
+Convention                             , Pasteur                                , True
+Montparnasse Bienvenue                 , Invalides                              , True
+Mairie de Saint-Ouen                   , Saint-Ouen                             , True
+Buzenval                               , Grands Boulevards                      , True
+Pont de Sèvres                         , Maraîchers                             , True
+Porte de Clignancourt                  , Réaumur - Sébastopol                   , True
+Raspail                                , Simplon                                , True
+Faidherbe - Chaligny                   , Porte Dorée                            , True
+Châtillon-Montrouge                    , Mairie de Clichy                       , True
+Bel-Air                                , Chevaleret                             , True
+Villiers                               , Rue Saint-Maur                         , True
+Oberkampf                              , Hoche                                  , True
+Europe                                 , Malesherbes                            , True
+Porte d'Ivry                           , Porte de Choisy                        , True
+Charles de Gaulle - Etoile             , La Défense (Grande Arche)              , True
+Montgallet                             , Michel Bizot                           , True
+Tolbiac                                , Villejuif Léo Lagrange                 , True
+Gambetta                               , Malesherbes                            , True
+Liberté                                , Michel Bizot                           , True
+Rome                                   , Monceau                                , True
+Bastille                               , Saint-Mandé                            , True
+Wagram                                 , Réaumur - Sébastopol                   , True
+Barbès - Rochechouart                  , Raspail                                , True
+Les Agnettes                           , Asnières - Gennevilliers Les Courtilles, True
+Javel - André Citroën                  , Eglise d'Auteuil                       , True
+Etienne Marcel                         , Saint-Michel                           , True
+Guy Môquet                             , Gabriel Péri                           , True
+Place Monge                            , Château Landon                         , True
+Reuilly - Diderot                      , Bastille                               , True
+Montreuil - Hôpital                    , La Dhuys                               , True
+Barbara                                , Bagneux - Lucie Aubrac                 , True
+Porte de Clichy                        , Saint-Ouen                             , True
+Sully - Morland                        , Château Landon                         , True
+Bastille                               , Jacques Bonsergent                     , True
+Pasteur                                , Corentin Celton                        , True
+Place d'Italie                         , Bir-Hakeim                             , True
+Jussieu                                , Aubervilliers-Pantin Quatre Chemins    , True
+La Tour-Maubourg                       , Invalides                              , True
+Marcadet - Poissonniers                , Château d'Eau                          , True
+Dupleix                                , Kléber                                 , True
+Louis Blanc                            , Chaussée d'Antin - La Fayette          , True
+La Dhuys                               , Rosny-Bois-Perrier                     , True
+Charles de Gaulle - Etoile             , Nation                                 , True
+Jaurès                                 , Gare d'Austerlitz                      , True
+Gare du Nord                           , Cité                                   , True
+Gambetta                               , Porte des Lilas                        , True
+Oberkampf                              , Iéna                                   , True
+Avron                                  , Anvers                                 , True
+Pont de Neuilly                        , Hôtel de Ville                         , True
+Saint-Placide                          , Saint-Michel                           , True
+Eglise de Pantin                       , Bobigny-Pantin - Raymond Queneau       , True
+Mairie de Clichy                       , Basilique de Saint-Denis               , True
+Bonne Nouvelle                         , Chaussée d'Antin - La Fayette          , True
+Châtillon-Montrouge                    , Malakoff - Plateau de Vanves           , True
+Duroc                                  , Carrefour Pleyel                       , True
+Villiers                               , Bourse                                 , True
+Edgar Quinet                           , Glacière                               , True
+Europe                                 , Wagram                                 , True
+Exelmans                               , Miromesnil                             , True
+Place des Fêtes                        , Jaurès                                 , True
+Chardon Lagache                        , Mirabeau                               , True
+Picpus                                 , Dugommier                              , True
+Glacière                               , Cambronne                              , True
+Bastille                               , Campo-Formio                           , True
+Alexandre Dumas                        , Courcelles                             , True
+Gare de Lyon                           , Bibliothèque François Mitterrand       , True
+Ternes                                 , Nation                                 , True
+Maison Blanche                         , Hôpital Bicêtre                        , True
+Rue de la Pompe                        , Saint-Ambroise                         , True
+Nation                                 , Strasbourg - Saint-Denis               , True
+Nation                                 , Palais Royal - Musée du Louvre         , True
+Blanche                                , Barbès - Rochechouart                  , True
+Saint-Sébastien - Froissart            , Ledru-Rollin                           , True
+Kléber                                 , Nationale                              , True
+Château de Vincennes                   , Bérault                                , True
+Bobigny-Pantin - Raymond Queneau       , Gare de l'Est                          , True
+Hôtel de Ville                         , Champs-Elysées - Clemenceau            , True
+Bolivar                                , Botzaris                               , True
+République                             , Maisons-Alfort - Les Juilliottes       , True
+Miromesnil                             , Exelmans                               , True
+Invalides                              , La Tour-Maubourg                       , True
+Denfert-Rochereau                      , Picpus                                 , True
+Saint-Paul (Le Marais)                 , Porte de Vincennes                     , True
+Nation                                 , Ternes                                 , True
+Campo-Formio                           , Bréguet-Sabin                          , True
+Sentier                                , Pont de Levallois - Bécon              , True
+Nationale                              , Pasteur                                , True
+Jussieu                                , Avenue Emile Zola                      , True
+Châtelet                               , George V                               , True
+Porte des Lilas                        , Serge Gainsbourg                       , True
+Falguière                              , Concorde                               , True
+Richelieu - Drouot                     , Grands Boulevards                      , True
+Danube                                 , Louis Blanc                            , True
+Duroc                                  , Plaisance                              , True
+Ledru-Rollin                           , Faidherbe - Chaligny                   , True
+Gare de Lyon                           , Olympiades                             , True
+Couronnes                              , Avron                                  , True
+Hoche                                  , Oberkampf                              , True
+Palais Royal - Musée du Louvre         , Nation                                 , True
+Père Lachaise                          , Quatre Septembre                       , True
+Saint-Mandé                            , Tuileries                              , True
+Daumesnil                              , Créteil - Université                   , True
+Ranelagh                               , Porte de Montreuil                     , True
+Bobigny Pablo Picasso                  , Saint-Marcel                           , True
+Les Gobelins                           , Le Peletier                            , True
+Cardinal Lemoine                       , La Motte-Picquet - Grenelle            , True
+Pyrénées                               , Châtelet                               , True
+Maraîchers                             , Havre-Caumartin                        , True
+Porte de Champerret                    , Opéra                                  , True
+Saint-Denis - Université               , Basilique de Saint-Denis               , True
+Place d'Italie                         , Stalingrad                             , True
+Cambronne                              , Glacière                               , True
+Malesherbes                            , Gambetta                               , True
+Villejuif Paul Vaillant-Couturier      , Villejuif - Louis Aragon               , True
+La Fourche                             , Brochant                               , True
+Gambetta                               , Pelleport                              , True
+Etienne Marcel                         , Alésia                                 , True
+Rue des Boulets                        , Croix de Chavaux                       , True
+Réaumur - Sébastopol                   , Porte de Clignancourt                  , True
+Maubert - Mutualité                    , Sèvres - Babylone                      , True
+Franklin D. Roosevelt                  , Charonne                               , True
+Front Populaire                        , Abbesses                               , True
+Charenton - Ecoles                     , Porte de Charenton                     , True
+Saint-François-Xavier                  , Saint-Lazare                           , True
+Anvers                                 , Avron                                  , True
+La Motte-Picquet - Grenelle            , Daumesnil                              , True
+Sèvres - Babylone                      , Pigalle                                , True
+Denfert-Rochereau                      , Cité                                   , True
+Pasteur                                , Passy                                  , True
+Bibliothèque François Mitterrand       , Bercy                                  , True
+Robespierre                            , Mairie de Montreuil                    , True
+Gare de l'Est                          , Stalingrad                             , True
+Boissière                              , Bel-Air                                , True
+Parmentier                             , Père Lachaise                          , True
+Château Rouge                          , Mairie de Montrouge                    , True
+Place d'Italie                         , Porte d'Ivry                           , True
+Porte d'Italie                         , Tolbiac                                , True
+Châtelet                               , Barbès - Rochechouart                  , True
+République                             , Balard                                 , True
+Pont Neuf                              , Maison Blanche                         , True
+Barbès - Rochechouart                  , Blanche                                , True
+Charles Michels                        , Chardon Lagache                        , True
+Saint-Sébastien - Froissart            , Filles du Calvaire                     , True
+Temple                                 , Porte de Bagnolet                      , True
+Ourcq                                  , Quai de la Rapée                       , True
+Bastille                               , Reuilly - Diderot                      , True
+Réaumur - Sébastopol                   , Vavin                                  , True
+Invalides                              , Madeleine                              , True
+Gaîté                                  , Mairie de Saint-Ouen                   , True
+La Muette                              , Franklin D. Roosevelt                  , True
+Riquet                                 , Porte de la Villette                   , True
+Porte de Vanves                        , Pernety                                , True
+Notre-Dame-de-Lorette                  , Montparnasse Bienvenue                 , True
+Aubervilliers-Pantin Quatre Chemins    , Jussieu                                , True
+Mairie d'Aubervilliers                 , Aimé Césaire                           , True
+Hôtel de Ville                         , République                             , True
+Porte de Montreuil                     , Ranelagh                               , True
+Jussieu                                , Gare d'Austerlitz                      , True
+Rue du Bac                             , Porte de Versailles                    , True
+Marcel Sembat                          , Saint-Philippe-du-Roule                , True
+Porte d'Ivry                           , Place d'Italie                         , True
+Exelmans                               , Saint-Philippe-du-Roule                , True
+Invalides                              , Montparnasse Bienvenue                 , True
+Porte de Versailles                    , Porte de la Chapelle                   , True
+Olympiades                             , Gare de Lyon                           , True
+Pont de Sèvres                         , Michel-Ange - Auteuil                  , True
+Lourmel                                , La Motte-Picquet - Grenelle            , True
+Champs-Elysées - Clemenceau            , Place de Clichy                        , True
+Daumesnil                              , La Motte-Picquet - Grenelle            , True
+Poissonnière                           , Palais Royal - Musée du Louvre         , True
+Opéra                                  , Pont Marie (Cité des Arts)             , True
+Ranelagh                               , Voltaire                               , True
+Hôpital Bicêtre                        , L'Haÿ-les-Roses                        , True
+Rambuteau                              , Télégraphe                             , True
+Trinité - d'Estienne d'Orves           , Solférino                              , True
+Pigalle                                , Père Lachaise                          , True
+Asnières - Gennevilliers Les Courtilles, Malakoff - Plateau de Vanves           , True
+Opéra                                  , Madeleine                              , True
+Courcelles                             , Colonel Fabien                         , True
+Cité                                   , Denfert-Rochereau                      , True
+Quai de la Gare                        , La Motte-Picquet - Grenelle            , True
+Stalingrad                             , Gare de l'Est                          , True
+Chaussée d'Antin - La Fayette          , Louis Blanc                            , True
+Cadet                                  , Corentin Cariou                        , True
+Pasteur                                , Convention                             , True
+Glacière                               , Edgar Quinet                           , True
+Louvre - Rivoli                        , Les Sablons                            , True
+Alésia                                 , Etienne Marcel                         , True
+Balard                                 , Créteil - Préfecture                   , True
+Porte de Clichy                        , Saint-Denis - Pleyel                   , True
+Reuilly - Diderot                      , Louvre - Rivoli                        , True
+Arts et Métiers                        , Mairie des Lilas                       , True
+Sèvres-Lecourbe                        , Raspail                                , True
+Champs-Elysées - Clemenceau            , Châtelet                               , True
+Porte de Charenton                     , Porte Dorée                            , True
+La Motte-Picquet - Grenelle            , Cardinal Lemoine                       , True
+Pelleport                              , Gambetta                               , True
+Tolbiac                                , Porte d'Italie                         , True
+Saint-Lazare                           , Saint-François-Xavier                  , True
+Aimé Césaire                           , Vaugirard                              , True
+Strasbourg - Saint-Denis               , Reuilly - Diderot                      , True
+Saint-Germain-des-Prés                 , Vavin                                  , True
+Porte Maillot                          , Palais Royal - Musée du Louvre         , True
+Franklin D. Roosevelt                  , George V                               , True
+Buttes Chaumont                        , Pré-Saint-Gervais                      , True
+Goncourt                               , Arts et Métiers                        , True
+Montreuil - Hôpital                    , Romainville-Carnot                     , True
+Rue du Bac                             , Saint-Georges                          , True
+Saint-Denis - Porte de Paris           , Porte de Clichy                        , True
+Bérault                                , Argentine                              , True
+Pyramides                              , Madeleine                              , True
+Boissière                              , Corvisart                              , True
+Porte Dorée                            , Porte de Charenton                     , True
+Place des Fêtes                        , Buttes Chaumont                        , True
+Serge Gainsbourg                       , Coteaux Beauclair                      , True
+Porte de Saint-Ouen                    , Saint-Lazare                           , True
+Strasbourg - Saint-Denis               , Simplon                                , True
+Porte de Pantin                        , Gare du Nord                           , True
+Mairie d'Issy                          , Lamarck - Caulaincourt                 , True
+Pré-Saint-Gervais                      , Danube                                 , True
+Sèvres - Babylone                      , Maubert - Mutualité                    , True
+Palais Royal - Musée du Louvre         , Poissonnière                           , True
+Rambuteau                              , Pyrénées                               , True
+Marx Dormoy                            , Mairie d'Issy                          , True
+Odéon                                  , Mouton-Duvernet                        , True
+Thiais - Orly (Pont de Rungis)         , Saint-Denis - Pleyel                   , True
+Place d'Italie                         , Montparnasse Bienvenue                 , True
+Oberkampf                              , Richelieu - Drouot                     , True
+Charles de Gaulle - Etoile             , Barbès - Rochechouart                  , True
+Bastille                               , Charles de Gaulle - Etoile             , True
+Trocadéro                              , Saint-Jacques                          , True
+Créteil - Université                   , Créteil - L'Echat                      , True
+Louise Michel                          , Bourse                                 , True
+Opéra                                  , Pereire                                , True
+Coteaux Beauclair                      , Romainville-Carnot                     , True
+Saint-Denis - Porte de Paris           , Varenne                                , True
+Chaussée d'Antin - La Fayette          , Bonne Nouvelle                         , True
+Bonne Nouvelle                         , Chemin Vert                            , True
+Michel-Ange - Auteuil                  , Pont de Sèvres                         , True
+Bir-Hakeim                             , Dugommier                              , True
+Château Landon                         , Place Monge                            , True
+Porte Dorée                            , Faidherbe - Chaligny                   , True
+Monceau                                , Philippe Auguste                       , True
+Victor Hugo                            , Porte Dauphine                         , True
+Gare de l'Est                          , Jacques Bonsergent                     , True
+Quai de la Rapée                       , Richard-Lenoir                         , True
+Tuileries                              , Argentine                              , True
+Corentin Cariou                        , Cadet                                  , True
+Ecole Militaire                        , Daumesnil                              , True
+Saint-Jacques                          , Charles de Gaulle - Etoile             , True
+Billancourt                            , République                             , True
+Châtelet                               , Place Monge                            , True
+Bercy                                  , Cambronne                              , True
+Alésia                                 , Porte d'Orléans                        , True
+Boulogne Pont de Saint-Cloud           , Avenue Emile Zola                      , True
+Porte de Choisy                        , Aubervilliers-Pantin Quatre Chemins    , True
+Basilique de Saint-Denis               , Saint-Denis - Université               , True
+Gambetta                               , Sentier                                , True
+Trocadéro                              , Nation                                 , True
+Passy                                  , Pasteur                                , True
+Trocadéro                              , Saint-Augustin                         , True
+Créteil - Université                   , Daumesnil                              , True
+Place des Fêtes                        , Châtelet                               , True
+Place d'Italie                         , Ourcq                                  , True
+Commerce                               , Chemin Vert                            , True
+Maubert - Mutualité                    , Mabillon                               , True
+Miromesnil                             , Porte de Saint-Ouen                    , True
+Crimée                                 , Le Peletier                            , True
+La Motte-Picquet - Grenelle            , Strasbourg - Saint-Denis               , True
+Bonne Nouvelle                         , Pointe du Lac                          , True
+Porte des Lilas                        , Belleville                             , True
+Campo-Formio                           , Bastille                               , True
+Miromesnil                             , République                             , True
+Vaugirard                              , Aimé Césaire                           , True
+Saint-Philippe-du-Roule                , Marcel Sembat                          , True
+Dupleix                                , Edgar Quinet                           , True
+Palais Royal - Musée du Louvre         , Pyramides                              , True
+Malesherbes                            , Europe                                 , True
+Bonne Nouvelle                         , Alma - Marceau                         , True
+Mairie de Montrouge                    , Marcadet - Poissonniers                , True
+Chemin Vert                            , Commerce                               , True
+Riquet                                 , Sully - Morland                        , True
+Madeleine                              , Invalides                              , True
+Mairie de Saint-Ouen                   , Malakoff - Rue Etienne Dolet           , True
+Gallieni                               , Réaumur - Sébastopol                   , True
+Avenue Emile Zola                      , Jussieu                                , True
+Les Sablons                            , Gare de Lyon                           , True
+Corentin Celton                        , Pasteur                                , True
+Olympiades                             , Saint-Lazare                           , True
+Gare du Nord                           , Porte de Pantin                        , True
+République                             , Jaurès                                 , True
+Maraîchers                             , Pont de Sèvres                         , True
+Saint-Georges                          , Rue du Bac                             , True
+Montparnasse Bienvenue                 , Place d'Italie                         , True
+Barbès - Rochechouart                  , Châtelet                               , True
+Ternes                                 , Victor Hugo                            , True
+Saint-Ambroise                         , Rue de la Pompe                        , True
+Chevaleret                             , Daumesnil                              , True
+Laumière                               , Eglise de Pantin                       , True
+Rue Saint-Maur                         , Villiers                               , True
+Rosny-Bois-Perrier                     , La Dhuys                               , True
+Bréguet-Sabin                          , Place d'Italie                         , True
+Pasteur                                , Nationale                              , True
+Boulogne Jean Jaurès                   , Boulogne Pont de Saint-Cloud           , True
+Jourdain                               , Télégraphe                             , True
+Falguière                              , Notre-Dame des Champs                  , True
+Couronnes                              , Belleville                             , True
+Villejuif Paul Vaillant-Couturier      , Gare de l'Est                          , True
+Michel-Ange - Molitor                  , Michel-Ange - Auteuil                  , True
+Père Lachaise                          , Parmentier                             , True
+Plaisance                              , Gaîté                                  , True
+Grands Boulevards                      , Alma - Marceau                         , True
+Pereire                                , Gallieni                               , True
+Créteil - Préfecture                   , Balard                                 , True
+Ecole Vétérinaire de Maisons-Alfort    , Charenton - Ecoles                     , True
+L'Haÿ-les-Roses                        , Thiais - Orly (Pont de Rungis)         , True
+Raspail                                , Sèvres-Lecourbe                        , True
+Maisons-Alfort - Les Juilliottes       , République                             , True
+Place de Clichy                        , Pigalle                                , True
+Montparnasse Bienvenue                 , Strasbourg - Saint-Denis               , True
+Argentine                              , Bérault                                , True
+Trinité - d'Estienne d'Orves           , Vaugirard                              , True
+Romainville-Carnot                     , Montreuil - Hôpital                    , True
+Saint-Lazare                           , Marcadet - Poissonniers                , True
+Les Sablons                            , Louvre - Rivoli                        , True
+Charles de Gaulle - Etoile             , Bastille                               , True
+Convention                             , Rennes                                 , True
+Thiais - Orly (Pont de Rungis)         , L'Haÿ-les-Roses                        , True
+Aéroport d'Orly                        , Chevilly-Larue (Marché International)  , True
+Strasbourg - Saint-Denis               , Montparnasse Bienvenue                 , True
+Jaurès                                 , Ménilmontant                           , True
+République                             , Billancourt                            , True
+Porte de Saint-Ouen                    , Miromesnil                             , True
+Le Peletier                            , Les Gobelins                           , True
+Victor Hugo                            , Ternes                                 , True
+Marcel Sembat                          , Rue des Boulets                        , True
+La Chapelle                            , Belleville                             , True
+Bérault                                , Château de Vincennes                   , True
+Sèvres - Babylone                      , Odéon                                  , True
+Bastille                               , Concorde                               , True
+Opéra                                  , Richelieu - Drouot                     , True
+Serge Gainsbourg                       , Porte des Lilas                        , True
+République                             , Saint-Lazare                           , True
+Porte d'Orléans                        , Alésia                                 , True
+Jaurès                                 , République                             , True
+Ségur                                  , Porte d'Auteuil                        , True
